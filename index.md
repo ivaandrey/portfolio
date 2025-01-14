@@ -1,4 +1,4 @@
-## About
+## About Me
 I have extensive experience in leading and implementing algorithms and neural networks using Python, OpenCV, PyTorch, TensorFlow, MATLAB and C/C++.
 As an attentive and detail-oriented engineer, I possess in-depth knowledge and strong algorithmic and problem-solving skills.
 My expertise lies in research and creative thinking, with a strong aptitude for methodical and analytical problem-solving.
@@ -6,5 +6,23 @@ I am a responsible professional with excellent communication skills, always look
 
 ---
 
-## My projects
+## Projects
+
+---
+
+## Experience
+
+---
+
+## Education
+
+---
+
+## Skills
+
+---
+
+## Contact me
+
+---
 
