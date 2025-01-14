@@ -20,10 +20,10 @@ I am a responsible professional with excellent communication skills, always look
 ---
 
 ## Education  ##
-### Master of Science (M.Sc.) Computer Vision & Image Processing ###
+#### Master of Science (M.Sc.) Computer Vision & Image Processing ####
 [Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2006 - 2012
 
-### Bachelor of Science (B.Sc.) Electrical and Electronics Engineering ###
+#### Bachelor of Science (B.Sc.) Electrical and Electronics Engineering ####
 [Technion - Israel Institute of Technology](https://www.linkedin.com/school/technion/) : 2001 - 2006
 
 ---
