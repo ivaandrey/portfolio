@@ -6,39 +6,6 @@ I am a responsible professional with excellent communication skills, always look
 
 ---
 
-## Projects  ##
-In my current role, I lead the development of Deep Learning solutions for various AI projects, including:
-+ Gaze vector estimation and point-of-gaze calculation
-+ Hand landmarks detection and hand gesture analysis
-+ Driver activity recognition for Driver Monitoring System (DMS)
-+ Eye state classification and blink detection
-+ Eyeglasses segmentation and automatic lens measurement for optometric applications
-+ Analysis of facial attributes for age and gender estimation
-
----
-
-## Experience  ##
-
----
-
-## Education  ##
-#### - Master of Science (M.Sc.) in Computer Vision & Image Processing ####
-<img src="images/tel_aviv_university_logo.jpg?raw=true" width="50%"/>
-[Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2006 - 2012
-
-My M.Sc. research was on **Tracking by Online Adaptive AdaBoost Classifiers**
-
-[*Tracking by Online Adaptive AdaBoost Classifiers*](https://www.youtube.com/watch?v=7SY7zlmDr0M) is a machine learning-based object tracking approach that dynamically adapts over time using AdaBoost classifiers. It is particularly effective for tracking objects in real-time video streams, even when appearance changes due to lighting variations, occlusions, and motion blur.
-
-The core of my approach involves the online selection of the most discriminative Haar-like features, which enables the tracker to effectively separate the target from the surrounding background. This method formulates tracking as a classification problem, leveraging boosting techniques and online learning to develop a classifier that can continuously adapt and distinguish the target from its environment.
-
-
-#### - Bachelor of Science (B.Sc.) in Electrical and Electronics Engineering ####
-<img src="images/technion_logo.jpg?raw=true"/>
-[Technion - Israel Institute of Technology](https://www.linkedin.com/school/technion/) : 2001 - 2006
-
----
-
 ## Areas of Expertise and Skills  ##
 
 My Main Areas of Expertise:
@@ -60,5 +27,40 @@ Skills:
 Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
 
 ---
+
+## Projects  ##
+In my current role, I lead the development of Deep Learning solutions for various AI projects, including:
++ Gaze vector estimation and point-of-gaze calculation
++ Hand landmarks detection and hand gesture analysis
++ Driver activity recognition for Driver Monitoring System (DMS)
++ Eye state classification and blink detection
++ Eyeglasses segmentation and automatic lens measurement for optometric applications
++ Analysis of facial attributes for age and gender estimation
+
+---
+
+## Experience  ##
+
+---
+
+## Education  ##
+#### - Master of Science (M.Sc.) in Computer Vision & Image Processing ####
+<img src="images/tel_aviv_university_logo.jpg?raw=true" width="10%"/>
+
+[Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2006 - 2012
+
+My M.Sc. research was on **Tracking by Online Adaptive AdaBoost Classifiers**
+
+[*Tracking by Online Adaptive AdaBoost Classifiers*](https://www.youtube.com/watch?v=7SY7zlmDr0M) is a machine learning-based object tracking approach that dynamically adapts over time using AdaBoost classifiers. It is particularly effective for tracking objects in real-time video streams, even when appearance changes due to lighting variations, occlusions, and motion blur.
+
+The core of my approach involves the online selection of the most discriminative Haar-like features, which enables the tracker to effectively separate the target from the surrounding background. This method formulates tracking as a classification problem, leveraging boosting techniques and online learning to develop a classifier that can continuously adapt and distinguish the target from its environment.
+
+
+#### - Bachelor of Science (B.Sc.) in Electrical and Electronics Engineering ####
+<img src="images/technion_logo.jpg?raw=true"/>
+[Technion - Israel Institute of Technology](https://www.linkedin.com/school/technion/) : 2001 - 2006
+
+---
+
 
 
