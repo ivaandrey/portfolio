@@ -23,7 +23,7 @@ In my current role, I lead the development of Deep Learning solutions for variou
 
 ## Education  ##
 #### - Master of Science (M.Sc.) in Computer Vision & Image Processing ####
-<img src="images/tel_aviv_university_logo.jpg?raw=true"/>
+<img src="images/tel_aviv_university_logo.jpg?raw=true" width="50%"/>
 [Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2006 - 2012
 
 My M.Sc. research was on **Tracking by Online Adaptive AdaBoost Classifiers**
