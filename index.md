@@ -7,6 +7,13 @@ I am a responsible professional with excellent communication skills, always look
 ---
 
 ## Projects  ##
+In my current role, I lead the development of Deep Learning solutions for various AI projects, including:
+• Gaze vector estimation and point-of-gaze calculation
+• Hand landmarks detection and hand gesture analysis
+• Driver activity recognition for Driver Monitoring System (DMS)
+• Eye state classification and blink detection
+• Eyeglasses segmentation and automatic lens measurement for optometric applications
+• Analysis of facial attributes for age and gender estimation
 
 ---
 
@@ -36,12 +43,12 @@ The core of my approach involves the online selection of the most discriminative
 ## Areas of Expertise and Skills  ##
 
 My Main Areas of Expertise:
-1. Deep Learning for Computer Vision:
+**1. Deep Learning for Computer Vision:**
 • Gaze Estimation and Eye Tracking
 • Hand and Landmark Detection
 • Facial Attributes Analysis 
 • Object Detection, Classification & Segmentation
-2. Classical Computer Vision:
+**2. Classical Computer Vision:**
 • 3D Point Cloud Algorithms
 • Depth Image Processing
 • Point Source Targets Detection and Tracking
