@@ -8,12 +8,12 @@ I am a responsible professional with excellent communication skills, always look
 
 ## Projects  ##
 In my current role, I lead the development of Deep Learning solutions for various AI projects, including:
-• Gaze vector estimation and point-of-gaze calculation
-• Hand landmarks detection and hand gesture analysis
-• Driver activity recognition for Driver Monitoring System (DMS)
-• Eye state classification and blink detection
-• Eyeglasses segmentation and automatic lens measurement for optometric applications
-• Analysis of facial attributes for age and gender estimation
++ Gaze vector estimation and point-of-gaze calculation
++ Hand landmarks detection and hand gesture analysis
++ Driver activity recognition for Driver Monitoring System (DMS)
++ Eye state classification and blink detection
++ Eyeglasses segmentation and automatic lens measurement for optometric applications
++ Analysis of facial attributes for age and gender estimation
 
 ---
 
@@ -27,7 +27,7 @@ In my current role, I lead the development of Deep Learning solutions for variou
 
 My M.Sc. research was on **Tracking by Online Adaptive AdaBoost Classifiers**
 
-[**Tracking by Online Adaptive AdaBoost Classifiers**](https://www.youtube.com/watch?v=7SY7zlmDr0M) is a machine learning-based object tracking approach that dynamically adapts over time using AdaBoost classifiers. It is particularly effective for tracking objects in real-time video streams, even when appearance changes due to lighting variations, occlusions, and motion blur.
+[*Tracking by Online Adaptive AdaBoost Classifiers*](https://www.youtube.com/watch?v=7SY7zlmDr0M) is a machine learning-based object tracking approach that dynamically adapts over time using AdaBoost classifiers. It is particularly effective for tracking objects in real-time video streams, even when appearance changes due to lighting variations, occlusions, and motion blur.
 
 The core of my approach involves the online selection of the most discriminative Haar-like features, which enables the tracker to effectively separate the target from the surrounding background. This method formulates tracking as a classification problem, leveraging boosting techniques and online learning to develop a classifier that can continuously adapt and distinguish the target from its environment.
 
@@ -44,15 +44,16 @@ The core of my approach involves the online selection of the most discriminative
 
 My Main Areas of Expertise:
 **1. Deep Learning for Computer Vision:**
-• Gaze Estimation and Eye Tracking
-• Hand and Landmark Detection
-• Facial Attributes Analysis 
-• Object Detection, Classification & Segmentation
++ Gaze Estimation and Eye Tracking
++ Hand and Landmark Detection
++ Facial Attributes Analysis
++ Object Detection, Classification & Segmentation
+  
 **2. Classical Computer Vision:**
-• 3D Point Cloud Algorithms
-• Depth Image Processing
-• Point Source Targets Detection and Tracking
-• Motion Detection and Estimation
++ 3D Point Cloud Algorithms
++ Depth Image Processing
++ Point Source Targets Detection and Tracking
++ Motion Detection and Estimation
 
 Skills:
 Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
