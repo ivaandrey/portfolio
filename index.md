@@ -57,6 +57,7 @@ My Main Areas of Expertise:
 + Motion Detection and Estimation
 
 Skills:
+
 Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
 
 ---
