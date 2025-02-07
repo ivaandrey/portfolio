@@ -43,6 +43,7 @@ The core of my approach involves the online selection of the most discriminative
 ## Areas of Expertise and Skills  ##
 
 My Main Areas of Expertise:
+
 **1. Deep Learning for Computer Vision:**
 + Gaze Estimation and Eye Tracking
 + Hand and Landmark Detection
