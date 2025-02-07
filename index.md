@@ -8,7 +8,7 @@ I am a responsible professional with excellent communication skills, always look
 
 ## Areas of Expertise and Skills  ##
 
-My Main Areas of Expertise:
+#### - My Main Areas of Expertise: ####
 
 **1. Deep Learning for Computer Vision:**
 + Gaze Estimation and Eye Tracking
@@ -22,7 +22,7 @@ My Main Areas of Expertise:
 + Point Source Targets Detection and Tracking
 + Motion Detection and Estimation
 
-Skills:
+#### - Skills: ####
 
 Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
 
@@ -57,7 +57,8 @@ The core of my approach involves the online selection of the most discriminative
 
 
 #### - Bachelor of Science (B.Sc.) in Electrical and Electronics Engineering ####
-<img src="images/technion_logo.jpg?raw=true"/>
+<img src="images/technion_logo.jpg?raw=true" width="10%"/>
+
 [Technion - Israel Institute of Technology](https://www.linkedin.com/school/technion/) : 2001 - 2006
 
 ---
