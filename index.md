@@ -23,7 +23,7 @@ In my current role, I lead the development of Deep Learning solutions for variou
 
 ## Education  ##
 #### - Master of Science (M.Sc.) in Computer Vision & Image Processing ####
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/tel_aviv_university_logo.jpg"/>
 [Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2006 - 2012
 
 My M.Sc. research was on **Tracking by Online Adaptive AdaBoost Classifiers**
@@ -34,7 +34,7 @@ The core of my approach involves the online selection of the most discriminative
 
 
 #### - Bachelor of Science (B.Sc.) in Electrical and Electronics Engineering ####
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/technion_logo.jpg"/>
 [Technion - Israel Institute of Technology](https://www.linkedin.com/school/technion/) : 2001 - 2006
 
 ---
