@@ -33,11 +33,23 @@ The core of my approach involves the online selection of the most discriminative
 
 ---
 
-## Skills  ##
+## Areas of Expertise and Skills  ##
+
+My Main Areas of Expertise:
+1. Deep Learning for Computer Vision:
+• Gaze Estimation and Eye Tracking
+• Hand and Landmark Detection
+• Facial Attributes Analysis 
+• Object Detection, Classification & Segmentation
+2. Classical Computer Vision:
+• 3D Point Cloud Algorithms
+• Depth Image Processing
+• Point Source Targets Detection and Tracking
+• Motion Detection and Estimation
+
+Skills:
+Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
 
 ---
 
-## Contact me  ##
-
----
 
