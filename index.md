@@ -49,7 +49,7 @@ In my current role, I lead the development of Deep Learning solutions for variou
 
 [Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2006 - 2012
 
-My M.Sc. research was on **Tracking by Online Adaptive AdaBoost Classifiers**
+My M.Sc. research focused on **Object Tracking by Online Adaptive AdaBoost Classifiers**
 
 [*Tracking by Online Adaptive AdaBoost Classifiers*](https://www.youtube.com/watch?v=7SY7zlmDr0M) is a machine learning-based object tracking approach that dynamically adapts over time using AdaBoost classifiers. It is particularly effective for tracking objects in real-time video streams, even when appearance changes due to lighting variations, occlusions, and motion blur.
 
