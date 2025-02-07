@@ -18,9 +18,9 @@ I am a responsible professional with excellent communication skills, always look
 #### - Master of Science (M.Sc.) in Computer Vision & Image Processing ####
 [Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2006 - 2012
 
-My M.Sc. research was on *Tracking by Online Adaptive AdaBoost Classifiers*
+My M.Sc. research was on **Tracking by Online Adaptive AdaBoost Classifiers**
 
-This method is a machine learning-based object tracking approach that dynamically adapts over time using AdaBoost classifiers. It is particularly effective for tracking objects in real-time video streams, even when appearance changes due to lighting variations, occlusions, and motion blur.
+**Tracking by Online Adaptive AdaBoost Classifiers** is a machine learning-based object tracking approach that dynamically adapts over time using AdaBoost classifiers. It is particularly effective for tracking objects in real-time video streams, even when appearance changes due to lighting variations, occlusions, and motion blur.
 The core of my approach involves the online selection of the most discriminative Haar-like features, which enables the tracker to effectively separate the target from the surrounding background. This method formulates tracking as a classification problem, leveraging boosting techniques and online learning to develop a classifier that can continuously adapt and distinguish the target from its environment.
 
 [Demo Results](https://www.youtube.com/watch?v=7SY7zlmDr0M)
