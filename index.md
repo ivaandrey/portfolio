@@ -48,13 +48,13 @@ In my current role, I lead the development of Deep Learning solutions for variou
 
 <img src="images/intel_corporation_logo.jpg?raw=true" width="5%" height="5%"/>
 
-#### 03/2019 - 10/2021 : Intel corporation Ltd - RealSense ####
+#### 03/2019 - 10/2021 : [Intel corporation Ltd - RealSense](https://www.intelrealsense.com/) ####
 
 ***Sr. Computer Vision and Algorithm Engineer***
 
 <img src="images/Rafael_logo.jpg?raw=true" width="5%" height="5%"/>
 
-#### 04/208 - 03/2019 : Rafael Advanced Defense Systems Ltd ####
+#### 04/208 - 03/2019 : [Rafael Advanced Defense Systems Ltd](https://www.rafael.co.il/) ####
 
 ***Computer Vision System Engineer***
 
