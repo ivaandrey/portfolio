@@ -41,7 +41,7 @@ In my current role, I lead the development of Deep Learning solutions for variou
 
 ## Experience  ##
 <img src="images/blink_technologies_incorporation_logo.jpg?raw=true" width="5%" height="5%"/>
-+ #### 10/2021 - Present : [Blink Technologies, Inc](http://www.blinkeye.ai/) ###
++ #### 10/2021 - Present : [Blink Technologies, Inc](http://www.blinkeye.ai/) ####
 
 ### AI Algorithm Team Tech Lead and Researcher ###
 
