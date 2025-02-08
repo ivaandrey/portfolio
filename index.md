@@ -40,14 +40,19 @@ In my current role, I lead the development of Deep Learning solutions for variou
 ---
 
 ## Experience  ##
+<img src="images/blink_technologies_incorporation_logo.jpg?raw=true" width="5%" height="5%"/>
+
+### 10/2021 - Present : Blink Technologies, Inc ###
+
+* AI Algorithm Team Tech Lead and Researcher* 
 
 ---
 
 ## Education  ##
 ### - Master of Science (M.Sc.) in Computer Vision & Image Processing ###
-<img src="images/tel_aviv_university_logo.jpg?raw=true" width="5%" height="10%"/>
+<img src="images/tel_aviv_university_logo.jpg?raw=true" width="5%" height="5%"/>
 
-[Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2006 - 2012
+[Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2012
 
 My M.Sc. research focused on **Object Tracking by Online Adaptive AdaBoost Classifiers**
 
@@ -57,9 +62,9 @@ The core of my approach involves the online selection of the most discriminative
 
 
 ### - Bachelor of Science (B.Sc.) in Electrical and Electronics Engineering ###
-<img src="images/technion_logo.jpg?raw=true" width="10%" height="5%"/>
+<img src="images/technion_logo.jpg?raw=true" width="5%" height="5%"/>
 
-[Technion - Israel Institute of Technology](https://www.linkedin.com/school/technion/) : 2001 - 2006
+[Technion - Israel Institute of Technology](https://www.linkedin.com/school/technion/) : 2006
 
 ---
 
