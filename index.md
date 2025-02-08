@@ -48,7 +48,7 @@ In my current role, I lead the development of Deep Learning solutions for variou
 
 #### 03/2019 - 10/2021 : _Sr. Computer Vision and Algorithm Engineer_ at [Intel corporation Ltd - RealSense](https://www.intelrealsense.com/) ####
 
-<img src="images/Rafael_logo.jpg?raw=true" width="5%" height="5%"/>
+<img src="images/Rafael_logo_border.jpg?raw=true" width="5%" height="5%"/>
 
 #### 04/208 - 03/2019 : _Computer Vision System Engineer_ at [Rafael Advanced Defense Systems Ltd](https://www.rafael.co.il/) ####
 
@@ -57,7 +57,7 @@ In my current role, I lead the development of Deep Learning solutions for variou
 
 ## Education  ##
 ### - Master of Science (M.Sc.) in Computer Vision & Image Processing ###
-<img src="images/tel_aviv_university_logo.jpg?raw=true" width="5%" height="5%"/>
+<img src="images/tel_aviv_university_logo_border.jpg?raw=true" width="5%" height="5%"/>
 
 [Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2012
 
