@@ -44,19 +44,19 @@ In my current role, I lead the development of Deep Learning solutions for variou
 
 #### 10/2021 - Present : [Blink Technologies, Inc](http://www.blinkeye.ai/) ####
 
-*AI Algorithm Team Tech Lead and Researcher* 
+***AI Algorithm Team Tech Lead and Researcher***
 
 <img src="images/intel_corporation_logo.jpg?raw=true" width="5%" height="5%"/>
 
 #### 03/2019 - 10/2021 : Intel corporation Ltd - RealSense ####
 
-*Sr. Computer Vision and Algorithm Engineer* 
+***Sr. Computer Vision and Algorithm Engineer***
 
 <img src="images/Rafael_logo.jpg?raw=true" width="5%" height="5%"/>
 
 #### 04/208 - 03/2019 : Rafael Advanced Defense Systems Ltd ####
 
-*Sr. Computer Vision and Algorithm Engineer* 
+***Computer Vision System Engineer***
 
 ---
 
