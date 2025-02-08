@@ -45,7 +45,7 @@ In my current role, I lead the development of Deep Learning solutions for variou
 
 ## Education  ##
 ### - Master of Science (M.Sc.) in Computer Vision & Image Processing ###
-<img src="images/tel_aviv_university_logo.jpg?raw=true" width="10%" height="10%"/>
+<img src="images/tel_aviv_university_logo.jpg?raw=true" width="5%" height="10%"/>
 
 [Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2006 - 2012
 
@@ -57,7 +57,7 @@ The core of my approach involves the online selection of the most discriminative
 
 
 ### - Bachelor of Science (B.Sc.) in Electrical and Electronics Engineering ###
-<img src="images/technion_logo.jpg?raw=true" width="10%" height="10%"/>
+<img src="images/technion_logo.jpg?raw=true" width="10%" height="5%"/>
 
 [Technion - Israel Institute of Technology](https://www.linkedin.com/school/technion/) : 2001 - 2006
 
