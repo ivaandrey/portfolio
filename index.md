@@ -15,6 +15,7 @@ I am a responsible professional with excellent communication skills, always look
 + Hand and Landmark Detection
 + Facial Attributes Analysis
 + Object Detection, Classification & Segmentation
++ Regression Neural Networks
   
 **2. Classical Computer Vision:**
 + 3D Point Cloud Algorithms
