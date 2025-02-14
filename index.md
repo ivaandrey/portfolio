@@ -55,7 +55,7 @@ In my current role, I lead the development of Deep Learning solutions for variou
 ### - Computer Vision System Engineer ###
 
 <img src="images/Rafael_logo_border.jpg?raw=true" width="5%" height="5%"/>
-#### 04/208 - 03/2019 : [Rafael Advanced Defense Systems Ltd](https://www.rafael.co.il/) ####
+#### 04/2008 - 03/2019 : [Rafael Advanced Defense Systems Ltd](https://www.rafael.co.il/) ####
   
 
 ---
