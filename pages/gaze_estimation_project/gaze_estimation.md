@@ -15,3 +15,5 @@ Gaze estimation techniques can be broadly categorized into:
   
 The gaze estimation activity I lead involves managing a team focused on an **appearance-based approach**, where I oversee the research, development, optimization, and deployment of deep learning models for gaze tracking. My responsibilities span technical leadership, including algorithm design, model training, dataset curation, and performance evaluation. I also focus on deployment, and integration into SDKs to ensure robust and accurate gaze estimation for driver monitoring systems (DMS) applications and human-computer interaction (HCI).  
 
+The gaze estimation pipeline includes the following modules: face detection, landmark detection, eye crop extraction, head pose calculation, eye status classification, and finally, gaze direction estimation.
+
