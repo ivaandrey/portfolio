@@ -8,6 +8,7 @@ Gaze direction estimation is the process of determining where a person is lookin
   <img src="images/gaze_estimation_page_driver_image.png?raw=true" width="30%" height="30%"/>
 </div>
 
+
 Gaze estimation techniques can be broadly categorized into:
 
 + **Model-based methods:** relies on geometric and anatomical models of the human eye and head. It typically uses explicit feature extraction techniques, where the system detects key elements such as the pupil center, iris contour, corneal reflections, and eye corners.
