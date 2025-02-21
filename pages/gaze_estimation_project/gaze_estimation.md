@@ -10,7 +10,7 @@ Gaze direction estimation is the process of determining where a person is lookin
 
 Gaze estimation techniques can be broadly categorized into:
 
-+ **Model-based methods:** relies on geometric and anatomical models of the human eye and head 
++ **Model-based methods:** relies on geometric and anatomical models of the human eye and head. It typically uses explicit feature extraction techniques, where the system detects key elements such as the pupil center, iris contour, corneal reflections, and eye corners.
 + **Appearance-based methods:** Learn gaze patterns from raw image data using deep learning or machine learning models to directly learn gaze patterns from raw images. These methods treat gaze estimation as a regression or classification problem.
   
 The gaze estimation activity I lead involves managing a team focused on an **appearance-based approach**, where I oversee the research, development, optimization, and deployment of deep learning models for gaze tracking. My responsibilities span technical leadership, including algorithm design, model training, dataset curation, and performance evaluation. I also focus on deployment, and integration into SDKs to ensure robust and accurate gaze estimation for driver monitoring systems (DMS) applications and human-computer interaction (HCI).  
