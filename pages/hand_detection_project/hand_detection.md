@@ -13,4 +13,6 @@ Hand Landmark Estimation pipeline consists of several key modules:
 + **Hand Region Crop and Normalization:** Once the hand is detected, the next step is to extract the region of interest (ROI) that contains the hand. The cropped hand region is then normalized to ensure consistent input size and orientation.
 + **Hand Landmarks Estimation:** This step identifies key points or landmarks on the hand, such as fingertips, knuckles, and wrist. We train a **multi-branch regression model** to accurately estimate the positions of 21 key hand landmarks.
 
+# Gesture Recognition Module #
+
 
