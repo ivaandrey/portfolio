@@ -31,7 +31,7 @@ Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
 
 ## Projects  ##
 
-In my current role I **lead the AI algorithm team** focused on developing advanced deep learning models for various projects. I oversee the **research, development, optimization, and deployment** of of these models. My responsibilities include **technical leadership**, covering **algorithm design, model training, dataset curation, and performance evaluation**. Additionally, our team supports **deployment and integration into SDKs** to ensure robust and accurate gaze estimation for various applications, including **driver monitoring systems (DMS) and human-computer interaction (HCI)**.
+In my current role I lead the AI algorithm team focused on developing advanced deep learning models for various projects. I oversee the research, development, optimization, and deployment of of these models. My responsibilities include technical leadership, covering algorithm design, model training, dataset curation, and performance evaluation. Additionally, our team supports deployment and integration into SDKs to ensure robust and accurate gaze estimation for various applications, including driver monitoring systems (DMS) and human-computer interaction (HCI).
 
 The developed projects include:
 + [Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md)
