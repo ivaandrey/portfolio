@@ -4,11 +4,11 @@
 
 One of the drawbacks of widely used MediaPipe models is their reduced accuracy when applied to IR and grayscale images. MediaPipe's Hand Landmark Detection is primarily trained on RGB images, assuming good lighting and clear hand visibility. However, many applications, such as driver monitoring systems (DMS) that use IR cameras and medical applications that operate under poor lighting conditions, require reliable hand landmark detection in grayscale or IR images. Given these challenges, our company decided to develop a specialized hand landmark detector for grayscale and IR images.
 
-To train the model on unlabeled IR or grayscale images you used a **Self-Training** or **Self-Labeling** method. In this process, a model is initially trained on a small set of labeled data. Then, it is used to predict labels for the unlabeled data. The predicted labels (often with a certain level of confidence) are then treated as ground truth and used to retrain or fine-tune the model. This process is repeated iteratively, with the model progressively refining its predictions and improving its performance.
+To train the model on unlabeled IR or grayscale images, the **Self-Training** or **Self-Labeling** method is used. In this process, a model is initially trained on a small set of labeled data. Then, it is used to predict labels for the unlabeled data. The predicted labels (often with a certain level of confidence) are then treated as ground truth and used to retrain or fine-tune the model. This process is repeated iteratively, with the model progressively refining its predictions and improving its performance.
 
 Key steps in self-training typically include:
 
-1. **Initial training:** Train a model on a small labeled (by MediPipe model) dataset.
+1. **Initial training:** Train a model on a small labeled dataset (labeled by MediPipe model).
 2. **Prediction on unlabeled data:** Use the trained model to predict labels for the unlabeled data.
 3. **Pseudo-labeling:** Assign labels to the unlabeled data with high-confidence predictions.
 4. **Fine-tuning:** Use both the original labeled data and the newly pseudo-labeled data to fine-tune the model.
