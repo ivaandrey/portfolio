@@ -31,8 +31,8 @@ Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
 
 ## Projects  ##
 In my current role, I lead the development of Deep Learning solutions for various AI projects, including:
-+ [Gaze direction estimation and point-of-gaze calculation](pages/gaze_estimation_project/gaze_estimation.md)
-+ Hand landmarks detection and hand gesture analysis
++ [Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md)
++ [Hand Landmarks Detection](pages/hand_detection_project/hand_detection.md)
 + Driver activity recognition for Driver Monitoring System (DMS)
 + Eye state classification and blink detection
 + Eyeglasses segmentation and automatic lens measurement for optometric applications
