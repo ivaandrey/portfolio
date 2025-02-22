@@ -1,8 +1,9 @@
 
 ## Gaze Direction Estimation ##
 
-The gaze estimation activity I lead involves managing a team focused on an **appearance-based approach**, where I oversee the research, development, optimization, and deployment of deep learning models for gaze tracking. My responsibilities include technical leadership, such as algorithm design, model training, dataset curation, and performance evaluation. Additionally, I focus on deployment and integration into SDKs to ensure robust and accurate gaze estimation for various applications, including driver monitoring systems (DMS) and human-computer interaction (HCI).  
-We develop gaze estimation models for a range of screen sizes, from **phones and tablets to monitors as large as 55"**. Our gaze estimation models are highly robust, achieving small prediction errors ranging from **1 cm to 9 cm**, depending on the screen device, with a **running time of approximately 5.5 milliseconds (180 FPS) on a CPU**.
+The gaze estimation activity I lead involves managing a team focused on an **appearance-based approach**, where I oversee the research, development, optimization, and deployment of deep learning models for gaze tracking. My responsibilities include technical leadership, such as algorithm design, model training, dataset curation, and performance evaluation. Additionally, our team supports deployment and integration into SDKs to ensure robust and accurate gaze estimation for various applications, including **driver monitoring systems (DMS) and human-computer interaction (HCI)**.
+
+We develop gaze estimation models for a range of screen sizes, from **phones and tablets to monitors as large as 55"**. Our gaze estimation models are highly robust, achieving **small prediction errors ranging from 1 cm to 9 cm**, depending on the screen device, with a **running time of approximately 5.5 milliseconds (180 FPS) on a CPU**.
 
 ---
 
