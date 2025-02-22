@@ -4,6 +4,10 @@
 
 One of the drawbacks of widely used MediaPipe models is their reduced accuracy when applied to IR and grayscale images. MediaPipe's Hand Landmark Detection is primarily trained on RGB images, assuming good lighting and clear hand visibility. However, many applications, such as driver monitoring systems (DMS) that use IR cameras and medical applications that operate under poor lighting conditions, require reliable hand landmark detection in grayscale or IR images. Given these challenges, our company decided to develop a specialized hand landmark detector for grayscale and IR images.
 
+---
+
+**Insert comparison results between mediapipe and our models on gray images and our results**
+
 To train the model on unlabeled IR or grayscale images, the **Self-Training** or **Self-Labeling** method is used. In this process, a model is initially trained on a small set of labeled data. Then, it is used to predict labels for the unlabeled data. The predicted labels (often with a certain level of confidence) are then treated as ground truth and used to retrain or fine-tune the model. This process is repeated iteratively, with the model progressively refining its predictions and improving its performance.
 
 Key steps in self-training typically include:
@@ -13,11 +17,6 @@ Key steps in self-training typically include:
 3. **Pseudo-labeling:** Assign labels to the unlabeled data with high-confidence predictions.
 4. **Fine-tuning:** Use both the original labeled data and the newly pseudo-labeled data to fine-tune the model.
 5. **Iterative process:** Repeat the process, refining the model with each iteration.
-
----
-
-**Insert comparison results between mediapipe and our models on gray images and our results**
-
 
 
 Hand Landmark Estimation pipeline consists of several key modules:
