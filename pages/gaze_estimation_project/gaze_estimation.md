@@ -1,7 +1,7 @@
 
 ## Gaze Direction Estimation ##
 
-The gaze estimation activity I lead involves managing a team focused on an **appearance-based approach**, where I oversee the research, development, optimization, and deployment of deep learning models for gaze tracking. My responsibilities include technical leadership, such as algorithm design, model training, dataset curation, and performance evaluation. Additionally, our team supports deployment and integration into SDKs to ensure robust and accurate gaze estimation for various applications, including **driver monitoring systems (DMS) and human-computer interaction (HCI)**.
+The gaze estimation activity I lead involves managing a team focused on developing advanced deep learning models for gaze tracking. I oversee the research, development, optimization, and deployment of deep learning models for gaze tracking. My responsibilities include technical leadership, such as algorithm design, model training, dataset curation, and performance evaluation. Additionally, our team supports deployment and integration into SDKs to ensure robust and accurate gaze estimation for various applications, including **driver monitoring systems (DMS) and human-computer interaction (HCI)**.
 
 We develop gaze estimation models for various screen sizes, ranging from **phones and tablets to monitors as large as 55"**. These models demonstrate high robustness, delivering **small prediction errors up to 5% of screen size**, with an **execution time of approximately 5.5 milliseconds (180 FPS) on a CPU**.
 
@@ -20,7 +20,7 @@ Gaze estimation techniques can be broadly categorized into:
 + **Appearance-based methods:** Learn gaze patterns from raw image data using deep learning or machine learning models to directly learn gaze patterns from raw images. These methods treat gaze estimation as a regression or classification problem.  
 
 
-The gaze estimation pipeline consists of several key modules, each playing a crucial role in accurately predicting the gaze direction:
+Our team develops an **appearance-based approach** for gaze estimation, with a pipeline consisting of several key modules, each playing a crucial role in accurately predicting gaze direction.:
 
 + **Face Detection:** The first step is identifying and locating the face within an image. **YOLOv5**-based models are trained to detect faces under varying camera angles, head poses, lighting conditions, distances from the camera, and across different camera types (such as RGB and IR).
 
