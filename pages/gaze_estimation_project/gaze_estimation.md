@@ -18,7 +18,7 @@ Gaze estimation techniques can be broadly categorized into:
 + **Appearance-based methods:** Learn gaze patterns from raw image data using deep learning or machine learning models to directly learn gaze patterns from raw images. These methods treat gaze estimation as a regression or classification problem.  
 
 
-Our team focuses on an **appearance-based approach** for gaze estimation, with a pipeline consisting of several key modules, each playing a crucial role in accurately predicting gaze direction.:
+Our team focuses on an **appearance-based approach** for gaze estimation, with a pipeline consisting of several key modules, each playing a crucial role in accurately predicting gaze direction:
 
 + **Face Detection:** The first step is identifying and locating the face within an image. **YOLOv5**-based models are trained to detect faces under varying camera angles, head poses, lighting conditions, distances from the camera, and across different camera types (such as RGB and IR).
 
