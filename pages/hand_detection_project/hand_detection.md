@@ -8,4 +8,6 @@ One of the drawbacks of widely used MediaPipe models is their reduced accuracy w
 
 Insert comparison results between mediapipe and our models on gray images
 
+Hand Landmark Estimation pipeline consists of several key modules:
+
 
