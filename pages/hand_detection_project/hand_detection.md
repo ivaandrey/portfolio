@@ -7,7 +7,7 @@ One of the drawbacks of widely used MediaPipe models is their reduced accuracy w
 ---
 
 <div style="text-align: center;">
-  <img src="images/hand_detection_ir_collage.png?raw=true"/>
+  <img src="images/hand_detection_ir_collage.png?raw=true" width="80%" height="80%"/>
 </div>
 
 To train the model on unlabeled IR or grayscale images, the **Self-Training** or **Self-Labeling** method is used. In this process, a model is initially trained on a small set of labeled data. Then, it is used to predict labels for the unlabeled data. The predicted labels (often with a certain level of confidence) are then treated as ground truth and used to retrain or fine-tune the model. This process is repeated iteratively, with the model progressively refining its predictions and improving its performance.
@@ -32,7 +32,7 @@ This module involves analyzing the detected hand landmarks to identify specific 
 Algorithms for various gestures and motions, such as **closed fist**, **open hand**, **pinch**, **zoom in**, **zoom out**, and **hand rotation**, are implemented by analyzing these relative positions over time. When integrated with ***[Gaze Estimation](../gaze_estimation_project/gaze_estimation.md)*** in **Human-Computer Interaction (HCI)** it enables a more intuitive and hands-free way to interact with systems, making it particularly useful in scenarios like **smart homes**, **gaming**, **virtual and augmented reality (VR/AR)**, and **driver monitoring systems (DMS)**.
 
 <div style="text-align: center;">
-  <img src="images/one_hand_control_video3_short.gif?raw=true"/>
+  <img src="images/one_hand_control_video3_short.gif?raw=true" width="80%" height="80%"/>
 </div>
 
 
