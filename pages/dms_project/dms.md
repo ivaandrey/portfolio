@@ -13,4 +13,8 @@ I led the development and implementation of the driver activity recognition mode
 
 ---
 
+<div style="text-align: center;">
+  <img src="images/states.png?raw=true"/>
+</div>
+
 
