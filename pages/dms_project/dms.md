@@ -17,4 +17,8 @@ I led the development and implementation of the driver activity recognition mode
   <img src="images/states.png?raw=true"/>
 </div>
 
+The **MobileNetV3 Small** pretrained model was chosen as the backbone for the driver activity recognition system primarily due to its exceptional running time performance and efficiency. Originally trained on the ImageNet dataset with 1000 classes, this model provides a robust feature extraction foundation while being lightweight and optimized for real-time applications. To adapt the model to our specific task, the original classifier head was replaced with a series of fully connected layers, where the output layer was modified to have 4 nodes corresponding to the states that need to be detected: normal state, eating/drinking, talking on the phone, and smoking.
+
+The model was then trained on a dataset specifically collected for this project, ensuring it was fine-tuned to recognize driver activities in real-world conditions. This adjustment ensures the model can reliably classify driver activities, all while maintaining the high speed and low latency performance required for real-time operation.
+
 
