@@ -33,7 +33,7 @@ Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
 
 ## Projects  ##
 
-As part of my current responsibilities, I manage the research and development of projects such as:
+As part of my current responsibilities, I lead the algorithm team in researching and developing projects such as:
 + [Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md)
 + [Hand Landmarks Detection](pages/hand_detection_project/hand_detection.md)
 + Driver activity recognition for Driver Monitoring System (DMS)
