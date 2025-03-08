@@ -31,6 +31,8 @@ Hand Landmark Estimation pipeline consists of several key modules:
 This module involves analyzing the detected hand landmarks to identify specific gestures or track hand movements. By evaluating the relative positions and movements of the landmarks, the system can recognize predefined gestures or track dynamic hand motions.  
 Algorithms for various gestures and motions, such as **closed fist**, **open hand**, **pinch**, **zoom in**, **zoom out**, and **hand rotation**, are implemented by analyzing these relative positions over time. When integrated with ***[Gaze Estimation](../gaze_estimation_project/gaze_estimation.md)*** in **Human-Computer Interaction (HCI)** it enables a more intuitive and hands-free way to interact with systems, making it particularly useful in scenarios like **smart homes**, **gaming**, **virtual and augmented reality (VR/AR)**, and **driver monitoring systems (DMS)**.
 
-**Insert video or gif of gesture and gaze**
+<div style="text-align: center;">
+  <img src="images/one_hand_control_video3_short.gif?raw=true"/>
+</div>
 
 
