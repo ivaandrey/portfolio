@@ -2,4 +2,8 @@
 
 A **Driver Monitoring System (DMS)** is an advanced safety technology designed to track and analyze a driver's behavior in real time. Using cameras and AI-based algorithms, DMS can detect signs of fatigue, distraction, drowsiness, or inattentiveness by monitoring facial expressions, eye movements, head position, and even physiological signals.
 
-As part of the driver distraction analysis module, the customer defined the following states to be detected: normal state, eating/drinking, talking on the phone, and smoking.
+As part of the driver distraction analysis module, the customer defined the following states to be detected: 
++ Normal state
++ Eating/drinking
++ Talking on the phone
++ Smoking
