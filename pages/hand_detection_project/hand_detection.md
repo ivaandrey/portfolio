@@ -6,7 +6,9 @@ One of the drawbacks of widely used MediaPipe models is their reduced accuracy w
 
 ---
 
-**Insert comparison results between mediapipe and our models on gray images and our results**
+<div style="text-align: center;">
+  <img src="images/gaze_estimation_page_driver_image.png?raw=true" width="30%" height="30%"/>
+</div>
 
 To train the model on unlabeled IR or grayscale images, the **Self-Training** or **Self-Labeling** method is used. In this process, a model is initially trained on a small set of labeled data. Then, it is used to predict labels for the unlabeled data. The predicted labels (often with a certain level of confidence) are then treated as ground truth and used to retrain or fine-tune the model. This process is repeated iteratively, with the model progressively refining its predictions and improving its performance.
 
