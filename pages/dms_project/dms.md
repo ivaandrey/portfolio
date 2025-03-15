@@ -9,7 +9,7 @@ Within the driver distraction analysis module, the customer specified a set of s
 + **Talking on the phone**: This state is detected when the driver is holding a phone, which can impact attention and reaction time.
 + **Smoking**: The system detects when the driver is smoking, which may also distract from driving and requires significant attention.
 
-I led the development and implementation of the driver activity recognition model (classifier) for this system. The model is optimized for real-time performance, achieving an impressive execution speed of approximately **200 frames per second (FPS)**. Additionally, the model demonstrates solid classification performance with an **F1 score of 0.781**, indicating a good balance between precision and recall. This ensures the system can reliably detect and classify various driver activities, providing crucial information to improve overall driver safety.
+I led the development and implementation of the driver activity recognition model (classifier) for this system. The model is optimized for real-time performance, achieving an impressive execution speed of approximately **200 frames per second (FPS)**. Additionally, the model demonstrates solid classification performance with an **[F1 score](https://www.v7labs.com/blog/f1-score-guide) of 0.781**, indicating a good balance between precision and recall. This ensures the system can reliably detect and classify various driver activities, providing crucial information to improve overall driver safety.
 
 ---
 
