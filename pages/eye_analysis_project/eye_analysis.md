@@ -10,3 +10,5 @@ In our project we categorized eye states into three classes: open, half-open, an
   
 Accurate classification of eye states enables proactive interventions, such as alerting drowsy drivers, enhancing security through eye-based authentication systems, and gaze direction estimation.
 
+The primary requirement for the network was achieving an optimized runtime to ensure real-time performance. The final classifier is highly efficient, running at **900 frames per second (FPS)** on a CPU. This level of performance enables rapid processing of eye state data, making it suitable for applications requiring low-latency responses, such as driver monitoring systems, biometric authentication, and gaze estimation.
+
