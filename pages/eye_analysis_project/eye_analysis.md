@@ -1,6 +1,6 @@
 ## Eye State Analysis  ##
 
-Eye state analysis is a fundamental component in various applications, including fatigue detection, medical diagnostics, human-computer interaction. By analyzing eye states, systems can assess alertness levels, detect signs of drowsiness or fatigue, and improve safety in critical environments.
+**Eye state** analysis is a fundamental component in various applications, including fatigue detection, medical diagnostics, human-computer interaction. By analyzing eye states, systems can assess alertness levels, detect signs of drowsiness or fatigue, and improve safety in critical environments.
 
 In our project we categorized eye states into three classes: open, half-open, and closed. Each state provides valuable insights into a person's cognitive and physical condition:
 
@@ -8,5 +8,5 @@ In our project we categorized eye states into three classes: open, half-open, an
 + **Half-Open Eyes**: This intermediate state often suggests fatigue, drowsiness, or a transition between wakefulness and sleep. Identifying half-open eyes is crucial for early detection of reduced alertness, helping prevent accidents in scenarios like driver monitoring and workplace safety systems.
 + **Closed Eyes**: A closed-eye state typically signifies sleep, blinking, or unconsciousness. Continuous detection of closed eyes is essential in medical applications , and real-time fatigue detection for vehicle operators.
   
-Accurate classification of eye states enables proactive interventions, such as alerting drowsy drivers, assisting individuals with disabilities in communication, and enhancing security through eye-based authentication systems.
+Accurate classification of eye states enables proactive interventions, such as alerting drowsy drivers, enhancing security through eye-based authentication systems, and gaze direction estimation.
 
