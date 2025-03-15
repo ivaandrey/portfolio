@@ -14,4 +14,8 @@ A key requirement for the network was achieving an optimized runtime to ensure r
 
 ---
 
+<div style="text-align: center;">
+  <img src="images/eye_states_united.png?raw=true" width="80%" height="80%"/>
+</div>
+
 
