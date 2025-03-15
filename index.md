@@ -37,7 +37,7 @@ As part of my current responsibilities, I lead the algorithm team in researching
 + **[Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md)**
 + **[Hand Landmarks Detection](pages/hand_detection_project/hand_detection.md)**
 + **[Driver activity recognition for Driver Monitoring System (DMS)](pages/dms_project/dms.md)**
-+ Eye state classification and blink detection
++ **[Eye state classification](pages/eye_analysis_project/eye_analysis.md)**
 + Eyeglasses segmentation and automatic lens measurement for optometric applications
 + Analysis of facial attributes for age and gender estimation
 
