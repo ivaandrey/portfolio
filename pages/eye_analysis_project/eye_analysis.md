@@ -10,7 +10,7 @@ In our project we categorized eye states into three classes: open, half-open, an
   
 Accurate classification of eye states enables proactive interventions, such as alerting drowsy drivers, enhancing security through eye-based authentication systems, and estimating gaze direction.
 
-A key requirement for the network was achieving an optimized runtime to ensure real-time performance. The final classifier is highly efficient, running at **900 frames per second (FPS) on a CPU**. Despite its speed, the model maintains a high level of accuracy, achieving an impressive **[F1 score](https://www.v7labs.com/blog/f1-score-guide) of 0.905**. This exceptional performance enables rapid and reliable eye state processing, making it ideal for applications that demand low-latency responses, including driver monitoring systems, biometric authentication, and gaze tracking.
+A key requirement for the network was achieving an optimized runtime to ensure real-time performance. The final classifier is highly efficient, running at **840 frames per second (FPS) on a CPU**. Despite its speed, the model maintains a high level of accuracy, achieving an impressive **[F1 score](https://www.v7labs.com/blog/f1-score-guide) of 0.905**. This exceptional performance enables rapid and reliable eye state processing, making it ideal for applications that demand low-latency responses, including driver monitoring systems, biometric authentication, and gaze tracking.
 
 ---
 
