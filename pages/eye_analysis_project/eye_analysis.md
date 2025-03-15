@@ -18,4 +18,8 @@ A key requirement for the network was achieving an optimized runtime to ensure r
   <img src="images/eye_states_united.png?raw=true">
 </div>
 
+High performance was achieved due to a lightweight CNN architecture. Additionally, an eye crop normalization phase was incorporated as a preprocessing step to enhance accuracy. Exceptional precision was attained in both RGB and IR images, regardless of whether glasses were worn.
+
+An additional challenge was fine-tuning the classifier to account for variations in eye features across different ethnicities, particularly for individuals of Asian nationality. The fine-tuned model achieves an **F1 score of 0.881** while maintaining the same runtime performance for Asian eyes.
+
 
