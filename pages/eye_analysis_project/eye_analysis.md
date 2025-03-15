@@ -22,4 +22,8 @@ High performance was achieved due to a lightweight CNN architecture. Additionall
 
 An additional challenge was fine-tuning the classifier to account for variations in eye features across different ethnicities, particularly for individuals of Asian nationality. The fine-tuned model achieves an **F1 score of 0.881** while maintaining the same runtime performance for Asian eyes.
 
+<div style="text-align: center;">
+  <img src="images/eye_state_video.gif?raw=true" width="80%" height="80%"/>
+</div>
+
 
