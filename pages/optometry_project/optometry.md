@@ -10,7 +10,7 @@ Accurate **glasses lens measurement** is a critical aspect of optometry, ensurin
 ---
 
 <div style="text-align: center;">
-  <img src="images/LensMeasurements.png?raw=true" width="50%" height="50%"/>
+  <img src="images/LensMeasurements2.png?raw=true" width="50%" height="50%"/>
 </div>
 
 Despite advancements in optometric technology, **most optometrists today still perform these measurements manually using a ruler or pupillometer**. While this method has been widely used for decades and provides reasonable accuracy, it is prone to human error, leading to slight misalignments in lens placement.
