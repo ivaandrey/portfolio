@@ -7,10 +7,10 @@ Accurate **glasses lens measurement** is a critical aspect of optometry, ensurin
 + **Lens Width and Height**: Determines the size of the lens to provide proper coverage and a balanced visual experience.
 + **Fitting Height (FH)**: The vertical positioning of the lenses, ensuring that the wearer looks through the optical center for proper vision correction, especially important for progressive and bifocal lenses.
 
-+ ---
+---
 
 <div style="text-align: center;">
-  <img src="images/LensMeasurements.png?raw=true" width="80%" height="80%"/>
+  <img src="images/LensMeasurements.png?raw=true" width="50%" height="50%"/>
 </div>
 
 Despite advancements in optometric technology, **most optometrists today still perform these measurements manually using a ruler or pupillometer**. While this method has been widely used for decades and provides reasonable accuracy, it is prone to human error, leading to slight misalignments in lens placement.
