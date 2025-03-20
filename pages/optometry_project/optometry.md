@@ -16,3 +16,7 @@ Accurate **glasses lens measurement** is a critical aspect of optometry, ensurin
 Despite advancements in optometric technology, **most optometrists today still perform these measurements manually using a ruler or pupillometer**. While this method has been widely used for decades and provides reasonable accuracy, it is prone to human error, leading to slight misalignments in lens placement.
 
 To address these limitations, **I led a project focused on developing precise lens measurements from RGB images using classical and deep learning (DL) computer vision methods**. These advanced techniques allow for accurate, automated measurements that reduce human error and improve efficiency. By leveraging machine learning algorithms and image processing techniques, digital solutions can now extract key parameters such as **PD and MonoPD, Lens Height and Width, and Fitting Height (FH)** dimensions with superior precision compared to traditional manual methods.
+
+<div style="text-align: center;">
+  <img src="images/demo_image.png?raw=true" width="50%" height="50%"/>
+</div>
