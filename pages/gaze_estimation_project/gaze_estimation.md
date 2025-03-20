@@ -32,7 +32,7 @@ Our team focuses on an **appearance-based approach** for gaze estimation, with a
 
 + **Gaze Direction Estimation:** Finally, the gaze direction is estimated based on the information gathered from the previous modules. This step involves analyzing the eye region along with the head pose to predict where the user is looking (e.g., gaze points on a screen or in 3D space). We train a **CNN-based regressor** to make this prediction, using the extracted eye crops, head pose, and reference frame from the calibration phase to accurately estimate the user's gaze direction.
 
-The Gaze Estimation module, when integrated with [Gesture Recognition](../hand_detection_project/hand_detection.md) module in Human-Computer Interaction (HCI), plays a critical role in enhancing user interaction by allowing users to control devices or applications through gestures and gaze tracking.
+The Gaze Estimation module, when integrated with ***[Gesture Recognition](../hand_detection_project/hand_detection.md)*** module in Human-Computer Interaction (HCI), plays a critical role in enhancing user interaction by allowing users to control devices or applications through gestures and gaze tracking.
 
 
 
