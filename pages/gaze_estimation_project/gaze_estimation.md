@@ -34,5 +34,9 @@ Our team focuses on an **appearance-based approach** for gaze estimation, with a
 
 The Gaze Estimation module, when integrated with ***[Gesture Recognition](../hand_detection_project/hand_detection.md)*** module in Human-Computer Interaction (HCI), plays a critical role in enhancing user interaction by allowing users to control devices or applications through gestures and gaze tracking.
 
+<div style="text-align: center;">
+  <img src="images/driver video.gif?raw=true" width="80%" height="80%"/>
+</div>
+
 
 
