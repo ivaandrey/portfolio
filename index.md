@@ -38,7 +38,7 @@ As part of my current responsibilities, I lead the algorithm team in researching
 + **[Hand Landmarks Detection](pages/hand_detection_project/hand_detection.md)**
 + **[Driver activity recognition for Driver Monitoring System (DMS)](pages/dms_project/dms.md)**
 + **[Eye state classification](pages/eye_analysis_project/eye_analysis.md)**
-+ **[Automatic glasses lens measurement for optometric applications](pages/optometry_project/optometry.md)**
++ **[Glasses lens measurement for optometric applications](pages/optometry_project/optometry.md)**
 + Analysis of facial attributes for age and gender estimation
 
 ---
