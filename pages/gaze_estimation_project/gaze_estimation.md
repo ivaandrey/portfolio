@@ -8,7 +8,7 @@ I oversee the development of gaze estimation models for various screen sizes, ra
 ---
 
 <div style="text-align: center;">
-  <img src="images/gaze_vector_image.png?raw=true" width="30%" height="30%"/>
+  <img src="images/gaze_vector_image.png?raw=true" width="50%" height="50%"/>
 </div>
 
 
