@@ -20,3 +20,57 @@ To address these limitations, **I led a project focused on developing precise le
 <div style="text-align: center;">
   <img src="images/demo_image.png?raw=true" width="50%" height="50%"/>
 </div>
+
+To calculate 
+
+Here’s a detailed breakdown of each step in the lens size calculation process:
+
+Face Detection
+
+Detect the face in the input image using a deep learning-based face detector (e.g., RetinaFace, MTCNN, or OpenCV’s DNN face detector).
+
+Ensure robustness to variations in lighting, pose, and occlusions.
+
+Face Landmark Detection
+
+Identify key facial landmarks (e.g., eyes, nose, mouth, and face contour) using a landmark detection model such as MediaPipe Face Mesh, Dlib, or a custom deep learning model.
+
+Extract precise positions of the eyes and nose bridge, which are crucial for subsequent steps.
+
+Glasses Region Extraction
+
+Detect the presence of glasses by analyzing the region around the eyes and nose.
+
+Segment the glasses frame from the face using edge detection, color segmentation, or a trained segmentation model.
+
+Glasses Symmetry Line Calculation
+
+Identify the midpoint of the glasses frame to determine the symmetry axis.
+
+This step helps in aligning the frame and ensuring accurate size estimation.
+
+Pupil Center Calculation
+
+Detect the pupils using a combination of intensity-based methods, Hough Transform, or deep learning-based eye tracking models.
+
+Accurately localizing the pupils is essential for measuring interpupillary distance (IPD) and fitting height.
+
+Monocular Pupillary Distance (MonoPD) Calculation
+
+Compute the distance from each pupil center to the symmetry line of the glasses.
+
+This measurement is used for personalized lens fitting and prescription accuracy.
+
+Glasses Lens Segmentation
+
+Segment the lens region within the glasses frame using classical image processing techniques (e.g., thresholding, contour detection) or deep learning-based segmentation (e.g., U-Net, DeepLabV3).
+
+Extract lens boundaries for precise size estimation.
+
+Lens Size and Fitting Height Calculation
+
+Measure the lens dimensions (width and height) in pixels and convert them to real-world units using a known reference (e.g., standard IPD or frame dimensions).
+
+Calculate the fitting height, which is the vertical distance from the pupil center to the bottom of the lens.
+
+Ensure measurements align with optical standards for accurate prescription fitting.
