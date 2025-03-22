@@ -22,7 +22,7 @@ The **MobileNetV3 Small** pretrained model was chosen as the backbone for the dr
 The model was then trained on a dataset specifically collected for this project, ensuring it was fine-tuned to recognize driver activities in real-world conditions. This adjustment ensures the model can reliably classify driver activities, all while maintaining the high speed and low latency performance required for real-time operation.
 
 <div style="text-align: center;">
-  <img src="images/dms_states_2.gif?raw=true"  width="100%" height="100%"/>
+  <img src="images/dms_states_2.gif?raw=true"  width="60%" height="60%"/>
 </div>
 
 
