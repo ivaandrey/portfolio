@@ -4,7 +4,7 @@ As an attentive and detail-oriented engineer, I possess in-depth knowledge and s
 My expertise lies in research and creative thinking, with a strong aptitude for methodical and analytical problem-solving.
 I am a responsible professional with excellent communication skills, always looking for new and innovative ways to solve challenging problems. I am open to working both as part of a team and independently.
 
-In my current role I lead the AI algorithm team focused on developing advanced deep learning models for various projects. I oversee the research, development, optimization, and deployment of of these models. My responsibilities include technical leadership, covering algorithm design, model training, dataset curation, and performance evaluation. Additionally, our team supports deployment and integration into SDKs to ensure robust and accurate gaze estimation for various applications, including driver monitoring systems (DMS) and human-computer interaction (HCI).
+In my current role I lead the AI algorithm team focused on developing advanced deep learning models for various projects. I oversee the research, development, optimization, and deployment of these models. My responsibilities include technical leadership, covering algorithm design, model training, dataset curation, and performance evaluation. Additionally, our team supports the deployment and integration of the developed networks into SDKs, ensuring robust and accurate performance.
 
 ---
 
