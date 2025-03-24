@@ -21,25 +21,14 @@ To address these limitations, **I led a project focused on developing precise le
   <img src="images/demo_image.png?raw=true" width="50%" height="50%"/>
 </div>
 
-To calculate 
 
 Here’s a detailed breakdown of each step in the lens size calculation process:
 
-Face Detection
+1. **Face Detection** - Detect the face in the input image using a deep learning-based face detector. A custom-trained YOLOv5 network is utilized for this task. 
 
-Detect the face in the input image using a deep learning-based face detector (e.g., RetinaFace, MTCNN, or OpenCV’s DNN face detector).
+2. **Face Landmark Detection** - Identify key facial landmarks (e.g., eyes, nose, mouth, and face contour) using a landmark detection model. Extract precise positions of the eyes and nose bridge, which are crucial for subsequent steps.
 
-Ensure robustness to variations in lighting, pose, and occlusions.
-
-Face Landmark Detection
-
-Identify key facial landmarks (e.g., eyes, nose, mouth, and face contour) using a landmark detection model such as MediaPipe Face Mesh, Dlib, or a custom deep learning model.
-
-Extract precise positions of the eyes and nose bridge, which are crucial for subsequent steps.
-
-Glasses Region Extraction
-
-Detect the presence of glasses by analyzing the region around the eyes and nose.
+3. **Glasses Region Extraction** - Using eyes and nose landmarks define the crop of the glasses.
 
 Segment the glasses frame from the face using edge detection, color segmentation, or a trained segmentation model.
 
