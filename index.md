@@ -36,10 +36,10 @@ Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
 As part of my current responsibilities, I lead the algorithm team in researching and developing projects such as:
 + **[Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md)**
 + **[Hand Landmarks Detection](pages/hand_detection_project/hand_detection.md)**
-+ **[Driver activity recognition for Driver Monitoring System (DMS)](pages/dms_project/dms.md)**
-+ **[Eye state classification](pages/eye_analysis_project/eye_analysis.md)**
-+ **[Glasses lens measurement for optometric applications](pages/optometry_project/optometry.md)**
-+ Analysis of facial attributes for age and gender estimation
++ **[Driver Activity Recognition for Driver Monitoring System (DMS)](pages/dms_project/dms.md)**
++ **[Eye State Classification](pages/eye_analysis_project/eye_analysis.md)**
++ **[Glasses Lens Measurement for Optometric Applications](pages/optometry_project/optometry.md)**
++ **[Age and Gender Estimation from Facial Images](pages/age_gender_project/age_gender.md)**
 
 ---
 
