@@ -44,3 +44,6 @@ Here’s a detailed breakdown of each step in the lens size calculation process:
 9. **Calculate the Fitting Height (FH)** - Compute the vertical distance from the iris center to the bottom of the lens.
 
 10. **Pixel-to-Millimeter Conversion** - Convert all measured values from pixels to millimeters using a predefined scaling factor or depth information from a depth image.
+
+Insert image of symmetry line, monopd,gradients, segmentation
+Insert gif
