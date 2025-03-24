@@ -22,44 +22,25 @@ To address these limitations, **I led a project focused on developing precise le
 </div>
 
 
+
 Here’s a detailed breakdown of each step in the lens size calculation process:
 
 1. **Face Detection** - Detect the face in the input image using a deep learning-based face detector. A custom-trained YOLOv5 network is utilized for this task. 
 
-2. **Face Landmark Detection** - Identify key facial landmarks (e.g., eyes, nose, mouth, and face contour) using a landmark detection model. Extract precise positions of the eyes and nose bridge, which are crucial for subsequent steps.
+2. **Face Landmark Detection** - Identify key facial landmarks (e.g., eyes, nose, mouth, and face contour) using a landmark detection model. We train a multi-branch regression model to accurately estimate face landmarks
 
 3. **Glasses Region Extraction** - Using eyes and nose landmarks define the crop of the glasses.
 
-Segment the glasses frame from the face using edge detection, color segmentation, or a trained segmentation model.
+4. **Glasses Symmetry Line Calculation** - Determine the position of the glasses' symmetry line using classical computer vision techniques. This involves processing the gradient image and applying a correlation-based method.
 
-Glasses Symmetry Line Calculation
+5. **Iris Center Calculation** - Detect the iris centers using a trained regression model for iris landmark estimation. Accurately localizing the centers is essential for measuring interpupillary distance (IPD) and fitting height.
 
-Identify the midpoint of the glasses frame to determine the symmetry axis.
+6. **Monocular Pupillary Distance (MonoPD) Calculation** - Compute the distance from each iris center to the symmetry line of the glasses. This measurement is used for personalized lens fitting and prescription accuracy.
 
-This step helps in aligning the frame and ensuring accurate size estimation.
+7. **Glasses Lens Segmentation** - Segment the lens region within the glasses frame using a trained segmentation network based on the YOLACT architecture. Extract lens contours to enable precise size estimation.
 
-Pupil Center Calculation
+8. **Lens Size and Fitting Height Calculation** - Measure the lens dimensions (width and height) in pixels based on the extracted lens contours.
+   
+9. **Calculate the Fitting Height (FH)** - Compute the vertical distance from the iris center to the bottom of the lens.
 
-Detect the pupils using a combination of intensity-based methods, Hough Transform, or deep learning-based eye tracking models.
-
-Accurately localizing the pupils is essential for measuring interpupillary distance (IPD) and fitting height.
-
-Monocular Pupillary Distance (MonoPD) Calculation
-
-Compute the distance from each pupil center to the symmetry line of the glasses.
-
-This measurement is used for personalized lens fitting and prescription accuracy.
-
-Glasses Lens Segmentation
-
-Segment the lens region within the glasses frame using classical image processing techniques (e.g., thresholding, contour detection) or deep learning-based segmentation (e.g., U-Net, DeepLabV3).
-
-Extract lens boundaries for precise size estimation.
-
-Lens Size and Fitting Height Calculation
-
-Measure the lens dimensions (width and height) in pixels and convert them to real-world units using a known reference (e.g., standard IPD or frame dimensions).
-
-Calculate the fitting height, which is the vertical distance from the pupil center to the bottom of the lens.
-
-Ensure measurements align with optical standards for accurate prescription fitting.
+10. **Pixel-to-Millimeter Conversion** - Convert all measured values from pixels to millimeters using a predefined scaling factor or depth information from a depth image.
