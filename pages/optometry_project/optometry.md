@@ -37,7 +37,7 @@ Here’s a detailed breakdown of each step in the lens size calculation process:
 
 6. **Monocular Pupillary Distance (MonoPD) Calculation** - Compute the distance from each iris center to the symmetry line of the glasses. This measurement is used for personalized lens fitting and prescription accuracy.
 
-7. **Glasses Lens Segmentation** - Segment the lens region within the glasses frame using a trained segmentation network based on the YOLACT architecture. Extract lens contours to enable precise size estimation.
+7. **Glasses Lens Segmentation** - Segment the lens region within the glasses frame using a trained segmentation network based on the [YOLACT](3.1.1.	https://arxiv.org/abs/1904.02689) architecture. Extract lens contours to enable precise size estimation.
 
 8. **Lens Size and Fitting Height Calculation** - Measure the lens dimensions (width and height) in pixels based on the extracted lens contours.
    
