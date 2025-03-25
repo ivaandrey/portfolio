@@ -6,6 +6,6 @@ As part of my role in the company, I led the development of age and gender estim
 
 ---
 <div style="text-align: center;">
-  <img src="images/AgeGenderImage.jpg?raw=true">
+  <img src="images/AgeGenderImage.jpg?raw=true" width="60%" height="60%">
 </div>
 
