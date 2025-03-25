@@ -1,7 +1,5 @@
 ## Age and Gender Estimation ##
 
-**Age and gender estimation** from facial images is a fundamental task in computer vision with applications in security, marketing, human-computer interaction, and social analytics. The goal is to automatically predict a person's age and gender based on their facial features, leveraging machine learning and deep learning techniques.
+**Age and gender estimation** from facial images is a fundamental task in computer vision with applications in security, marketing, human-computer interaction, and social analytics. The goal is to automatically predict a person's age and gender based on their facial features using deep convolutional neural networks (CNNs). The task is highly challenging due to variations in lighting, pose, facial expressions, face occlusions, as well as headwear and eyewear.
 
-Traditional approaches relied on handcrafted features and classical machine learning models, but modern methods predominantly use deep convolutional neural networks (CNNs). These models learn complex facial representations and can generalize across diverse demographics and real-world conditions.
-
-Despite significant advancements, challenges remain due to variations in lighting, pose, facial expressions, face occlusions, as well as headwear and eyewear.
+As part of my role in the company, I led the development of age and gender estimation networks. This project involved creating highly accurate models capable of estimating an individual's age and gender from images, leveraging state-of-the-art deep learning techniques. In addition to training and evaluating the models, one of my key responsibilities was the creation of diverse and high-quality datasets, ensuring that the models were trained on data representing real-world variations. I guided the entire process, from initial research and algorithm design to model training and deployment.
