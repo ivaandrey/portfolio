@@ -13,11 +13,11 @@ As part of my role in the company, I led the development of age and gender estim
 + **Training Data**: Training an accurate age/gender estimation models requires diverse and well-labeled datasets. I used several publicly available datasets to train our age and gender estimation models, including:
 ++ IMDB-WIKI: ~500,000 images with age and gender labels, though some noisy data due to incorrect birthdates.
 
-++ UTKFace: ~20,000 images with age, gender, and ethnicity labels, offering diverse variations.
++ + UTKFace: ~20,000 images with age, gender, and ethnicity labels, offering diverse variations.
 
-++ Adience: ~26,000 images focused on age and gender classification across different age groups.
++ + Adience: ~26,000 images focused on age and gender classification across different age groups.
 
-++ MORPH2: ~55,000 images with age, gender, and race labels, ideal for high-accuracy tasks.
++ + MORPH2: ~55,000 images with age, gender, and race labels, ideal for high-accuracy tasks.
 
-++ FG-NET: ~1,002 images used for age progression and regression tasks.
++ + FG-NET: ~1,002 images used for age progression and regression tasks.
 
