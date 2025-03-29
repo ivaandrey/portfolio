@@ -9,5 +9,5 @@ As part of my role in the company, I led the development of age and gender estim
   <img src="images/AgeGenderImage.jpg?raw=true" width="60%" height="60%">
 </div>
 
-To address the problem of age and gender estimation, I decided to use facial embeddings as input for the models. Face embeddings are compact, high-dimensional feature representations extracted from a face image using deep learning models.
+To address the problem of age and gender estimation, I decided to use facial embeddings as input for the models. Face embeddings are compact, high-dimensional feature representations extracted from a face image using deep learning models. Several pre-trained deep learning models can be used to extract facial embeddings. These models are designed to convert a face image into a fixed-size feature vector that captures facial identity. It was decided to use ArcFace (InsightFace)
 
