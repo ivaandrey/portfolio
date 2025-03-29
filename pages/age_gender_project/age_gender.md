@@ -9,5 +9,15 @@ As part of my role in the company, I led the development of age and gender estim
   <img src="images/AgeGenderImage.jpg?raw=true" width="60%" height="60%">
 </div>
 
-To address the problem of age and gender estimation, I decided to use facial embeddings as input for the models. Face embeddings are compact, high-dimensional feature representations extracted from a face image using deep learning models. Several pre-trained deep learning models can be used to extract facial embeddings. These models are designed to convert a face image into a fixed-size feature vector that captures facial identity. It was decided to use ArcFace (InsightFace)
++ **Face embeddings**: To address the problem of age and gender estimation, I decided to use facial embeddings as input for the models. Face embeddings are compact, high-dimensional feature representations extracted from a face image using deep learning models. Several pre-trained deep learning models can be used to extract facial embeddings. These models are designed to convert a face image into a fixed-size feature vector that captures facial identity. The [ArcFace (InsightFace)](https://insightface.ai/arcface?utm_source=chatgpt.com) network was used to create embeddings of faces. The model generates 512-dimensional embeddings, providing a good balance between feature richness and computational efficiency. ArcFace introduces Additive Angular Margin Loss (AAM), which enhances feature discrimination, ensuring that embeddings for different individuals are well-separated.
++ **Training Data**: Training an accurate age/gender estimation models requires diverse and well-labeled datasets. I used several publicly available datasets to train our age and gender estimation models, including:
+++ IMDB-WIKI: ~500,000 images with age and gender labels, though some noisy data due to incorrect birthdates.
+
+++ UTKFace: ~20,000 images with age, gender, and ethnicity labels, offering diverse variations.
+
+++ Adience: ~26,000 images focused on age and gender classification across different age groups.
+
+++ MORPH2: ~55,000 images with age, gender, and race labels, ideal for high-accuracy tasks.
+
+++ FG-NET: ~1,002 images used for age progression and regression tasks.
 
