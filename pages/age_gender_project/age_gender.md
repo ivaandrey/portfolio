@@ -10,14 +10,5 @@ As part of my role in the company, I led the development of age and gender estim
 </div>
 
 + **Face embeddings**: To address the problem of age and gender estimation, I decided to use facial embeddings as input for the models. Face embeddings are compact, high-dimensional feature representations extracted from a face image using deep learning models. Several pre-trained deep learning models can be used to extract facial embeddings. These models are designed to convert a face image into a fixed-size feature vector that captures facial identity. The [ArcFace (InsightFace)](https://insightface.ai/arcface?utm_source=chatgpt.com) network was used to create embeddings of faces. The model generates 512-dimensional embeddings, providing a good balance between feature richness and computational efficiency. ArcFace introduces Additive Angular Margin Loss (AAM), which enhances feature discrimination, ensuring that embeddings for different individuals are well-separated.
-+ **Training Data**: Training an accurate age/gender estimation models requires diverse and well-labeled datasets. I used several publicly available datasets to train our age and gender estimation models, including:
-  + IMDB-WIKI: ~500,000 images with age and gender labels, though some noisy data due to incorrect birthdates.
-
-  + UTKFace: ~20,000 images with age, gender, and ethnicity labels, offering diverse variations.
-
-  + Adience: ~26,000 images focused on age and gender classification across different age groups.
-
-  + MORPH2: ~55,000 images with age, gender, and race labels, ideal for high-accuracy tasks.
-
-  + FG-NET: ~1,002 images used for age progression and regression tasks.
++ **Training Data**: Training an accurate age/gender estimation models requires diverse and well-labeled datasets. I used several publicly available datasets to train our age and gender estimation models, including: IMDB-WIKI, UTKFace, Adience, MORPH2, FG-NET. However, all these datasets are imbalanced in terms of age distribution, with fewer images of young children and very old individuals. We balanced the datasets by generating synthetic images for the underrepresented age groups to ensure more equitable representation. To balance the dataset, I utilized the GAN-based [SAM (Style-based Age Manipulation)](https://yuval-alaluf.github.io/SAM/) network. The SAM network is specifically designed for manipulating the age of individuals in images by leveraging a style-based generator architecture. By adjusting the latent code that controls the style of the image, SAM allows for the generation of faces at various stages of age progression or regression.
 
