@@ -48,5 +48,5 @@ Here’s a detailed breakdown of each step in the lens size calculation process:
 10. **Pixel-to-Millimeter Conversion** - Convert all measured values from pixels to millimeters using a predefined scaling factor or depth information from a depth image.
 
 <div style="text-align: center;">
-  <img src="images/EyeSense.gif?raw=true" width="60%" height="60%"/>
+  <img src="images/EyeSense.gif?raw=true" width="80%" height="80%"/>
 </div>
