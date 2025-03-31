@@ -14,11 +14,11 @@ To train the model on unlabeled IR or grayscale images, the **Self-Training** or
 
 Key steps in self-training typically include:
 
-1. **Initial training:** Train a model on a small labeled dataset (labeled by MediPipe model).
-2. **Prediction on unlabeled data:** Use the trained model to predict labels for the unlabeled data.
-3. **Pseudo-labeling:** Assign labels to the unlabeled data with high-confidence predictions.
-4. **Fine-tuning:** Use both the original labeled data and the newly pseudo-labeled data to fine-tune the model.
-5. **Iterative process:** Repeat the process, refining the model with each iteration.
+**1. Initial training:** Train a model on a small labeled dataset (labeled by MediPipe model).
+**2. Prediction on unlabeled data:** Use the trained model to predict labels for the unlabeled data.
+**3. Pseudo-labeling:** Assign labels to the unlabeled data with high-confidence predictions.
+**4. Fine-tuning:** Use both the original labeled data and the newly pseudo-labeled data to fine-tune the model.
+**5. Iterative process:** Repeat the process, refining the model with each iteration.
 
 
 Hand Landmark Estimation pipeline consists of several key modules:
