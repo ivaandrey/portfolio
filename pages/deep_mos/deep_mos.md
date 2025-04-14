@@ -31,5 +31,5 @@ The YOLOv3 network was selected as the cylinder detection model for depth images
 The final results for the cylinder with a 13mm length and diameter are as follows: **class accuracy of 94%, object position accuracy of 95% within a 5-pixel error margin, and cylinder size accuracy of around 99%**
 
 <div style="text-align: center;">
-  <img src="images/data_capturing.gif?raw=true" width="50%" height="50%"/>
+  <img src="images/data_capturing.gif?raw=true" width="30%" height="30%"/>
 </div>
