@@ -28,7 +28,7 @@ A new target with an adjustable cylinder length and location was developed, elim
 
 The YOLOv3 network was selected as the cylinder detection model for depth images due to its several advantages, including high accuracy, fast inference speed, and ability to detect objects in real-time. Additionally, YOLOv3 performs well with small and large objects, offers robust performance even with limited training data, and provides a balance between precision and recall, making it suitable for cylinder detection tasks.
 
-The final results for the cylinder with a 13mm length and diameter are as follows: class accuracy of 94%, object position accuracy of approximately 95% within a 5-pixel error margin, and cylinder size accuracy of around 99%
+The final results for the cylinder with a 13mm length and diameter are as follows: **class accuracy of 94%, object position accuracy of 95% within a 5-pixel error margin, and cylinder size accuracy of around 99%**
 
 <div style="text-align: center;">
   <img src="images/data_capturing.gif?raw=true" width="50%" height="50%"/>
