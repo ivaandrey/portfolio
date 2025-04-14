@@ -14,8 +14,10 @@ Before the development of the automatic MOS metric, a manual approach was applie
 
 Subjectivity is one of the key issues, as the approach relies on human visual acuity, meaning the results can be influenced by individual perceptions and inconsistencies. The repetitive location pattern of the cylinders helps the operator find the smallest cylinder more easily, but this predictability can reduce the ability to detect more subtle or unpredictable issues that may arise in real-world scenarios. The manual assessment is also heavily influenced by the observer’s point of view, as variations in angle, distance, or lighting conditions. Additionally, the grid pattern of the target may affect the results. Since the target is designed with a regular, predictable structure, it may not accurately reflect how a system would perform with irregular or complex real-world scenes.
 
-These disadvantages highlight why I decided to implement an automatic MOS metric, which offers more objective, repeatable, and reliable results.
+These drawbacks emphasize the reason I chose to implement an automatic MOS metric, which provides more objective, consistent, and dependable results.
 
 <div style="text-align: center;">
   <img src="images/CylinderTarget.png?raw=true" width="50%" height="50%"/>
 </div>
+
+A new target with an adjustable cylinder length and location was developed, eliminating the need for a repetitive grid and prior knowledge of its position. Additionally, an automatic data capturing tool was developed using a robot in the lab, which captures depth images from a constant distance of 1 meter but from various viewpoints.
