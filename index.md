@@ -41,7 +41,7 @@ Throughout my professional career, I have led the research and development of mu
 + **[Glasses Lens Measurement for Optometric Applications](pages/optometry_project/optometry.md)**
 + **[Age and Gender Estimation from Facial Images](pages/age_gender_project/age_gender.md)**
 + **[Mimimal Object Size Detection in Depth Images](pages/deep_mos/deep_mos.md)**
-+ **3D Object Analysis in Depth Images**
++ **[3D Object Edge Analysis in Depth Images](pages/3d_object_analysis_project/3d_object_analysis.md)**
 
 ---
 
