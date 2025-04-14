@@ -21,3 +21,7 @@ These drawbacks emphasize the reason I chose to implement an automatic MOS metri
 </div>
 
 A new target with an adjustable cylinder length and location was developed, eliminating the need for a repetitive grid and prior knowledge of its position. Additionally, an automatic data capturing tool was developed using a robot in the lab, which captures depth images from a constant distance of 1 meter but from various viewpoints.
+
+<div style="text-align: center;">
+  <img src="images/CylinderTarget2.png?raw=true" width="50%" height="50%"/>
+</div>
