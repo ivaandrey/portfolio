@@ -7,7 +7,7 @@ I led the development of the Minimal Object Size (MOS) metric for the Intel Real
 
 ---
 <div style="text-align: center;">
-  <img src="images/lidar_camera2.jpg?raw=true" width="50%" height="50%"/>
+  <img src="images/lidar_camera2.jpg?raw=true" width="20%" height="20%"/>
 </div>
 
 Before the development of the automatic MOS metric, a manual approach was applied. For this manual approach, a repetitive cylindrical target was used, where each cylinder's size and location were precisely defined. The manual approach, while offering control over the target, comes with several disadvantages.
