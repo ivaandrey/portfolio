@@ -33,11 +33,13 @@ To analyze the angles of the plane and the corner, the 3D coordinates of each pi
 </div>
 
 
-The D435 camera demonstrated more accurate and precise results in the Side Plane Angle analysis, with an average angle of 89.8° and a standard deviation of 4.8°, compared to the L515, which showed an average angle of 93.4° with a standard deviation of 16.2°.
++ The D435 camera demonstrated more accurate and precise results in the **Side Plane Angle** analysis, with an average angle of 89.8° and a standard deviation of 4.8°, compared to the L515, which showed an average angle of 93.4° with a standard deviation of 16.2°.
 
 <div style="text-align: center;">
   <img src="images/two_cameras_edge_results.png?raw=true" width="80%" height="80%"/>
 </div>
+
++ A similar trend was observed in the Corner Angle analysis, where the D435 camera produced more accurate average results with an angle of 93.2°, compared to the Lidar L515, which measured an average angle of 79.8°
 
 
 
