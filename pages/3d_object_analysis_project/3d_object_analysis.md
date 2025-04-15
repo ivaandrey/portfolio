@@ -39,7 +39,11 @@ To analyze the angles of the plane and the corner, the 3D coordinates of each pi
   <img src="images/two_cameras_edge_results.png?raw=true" width="80%" height="80%"/>
 </div>
 
-+ A similar trend was observed in the Corner Angle analysis, where the D435 camera produced more accurate average results with an angle of 93.2°, compared to the Lidar L515, which measured an average angle of 79.8°
++ A similar trend was observed in the **Corner Angle** analysis, where the D435 camera produced more accurate average results with an angle of 93.2°, compared to the Lidar L515, which measured an average angle of 79.8°
+
++ <div style="text-align: center;">
+  <img src="images/corner_vectors.png?raw=true" width="80%" height="80%"/>
+</div>
 
 
 
