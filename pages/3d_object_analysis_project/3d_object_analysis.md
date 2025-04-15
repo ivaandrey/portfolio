@@ -29,7 +29,7 @@ In contrast, the **D435** is based on stereo vision technology, using a pair of 
 To analyze the angles of the plane and the corner, the 3D coordinates of each pixel were calculated, and a 3D model of the object was reconstructed. The side plane was divided into 25 regions, and a plane-fitting algorithm was applied to each region to calculate the normal vector for each.
 
 <div style="text-align: center;">
-  <img src="images/lidar_edge.png?raw=true" width="50%" height="50%"/>
+  <img src="images/lidar_edge.png?raw=true" width="90%" height="90%"/>
 </div>
 
 
