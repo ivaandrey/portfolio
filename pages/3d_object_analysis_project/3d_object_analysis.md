@@ -12,6 +12,6 @@ In addition, analysis of side plane of the object and corner were added to the l
 ---
 
 <div style="text-align: center;">
-  <img src="images/EdgeMetrics.png?raw=true">
+  <img src="images/EdgeMetrics2.png?raw=true">
 </div>
 
