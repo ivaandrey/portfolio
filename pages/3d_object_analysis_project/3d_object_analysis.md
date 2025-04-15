@@ -26,3 +26,7 @@ In contrast, the **D435** is based on stereo vision technology, using a pair of 
   <img src="images/two_cameras.png?raw=true" width="50%" height="50%"/>
 </div>
 
+To analyze the angles of the plane and the corner, the 3D coordinates of each pixel were calculated, and a 3D model of the object was reconstructed. The side plane was divided into 25 regions, and a plane-fitting algorithm was applied to each region to calculate the normal vector for each.
+
+
+
