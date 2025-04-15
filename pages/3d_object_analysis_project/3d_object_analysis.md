@@ -6,8 +6,9 @@ Key aspects of edge analysis in depth images:
 + **Bumpiness**: Quantifies local irregularities or high-frequency noise along edges — areas where depth values change sharply.
 + **Distortion**: Refers to systematic deviations in the shape or geometry of a depth edge from its expected form. It typically arises when an edge that should be straight, sharp, or well-aligned appears warped, curved, displaced, or smeared.
 
-In addition, analysis of side plane of the object and corner were added to the list
-
+In addition to standard edge metrics, I developed two novel metrics to enhance edge quality assessment: the **Side Plane Angle Metric** and the **Corner Angle Metric**.
++ **Side Plane Angle**: Calculates the normals of different regions along a side plane and analyzes the angular deviations to assess surface consistency and flatness.
++ **Corner Angle**: Measures the angle between adjacent planar surfaces at object corners along an edge, evaluating the sharpness and geometric accuracy of depth discontinuities in corner regions.
 
 ---
 
