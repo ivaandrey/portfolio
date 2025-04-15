@@ -23,6 +23,6 @@ The **L515** utilizes LiDAR (Light Detection and Ranging) technology, employing 
 In contrast, the **D435** is based on stereo vision technology, using a pair of RGB sensors and an infrared projector to compute depth via disparity between images. While more versatile across various lighting conditions and typically offering a wider field of view, it is generally less accurate and noisier compared to LiDAR in terms of depth precision, particularly at longer ranges or on low-texture surfaces.
 
 <div style="text-align: center;">
-  <img src="images/two_cameras.png?raw=true">
+  <img src="images/two_cameras.png?raw=true" width="50%" height="50%"/>>
 </div>
 
