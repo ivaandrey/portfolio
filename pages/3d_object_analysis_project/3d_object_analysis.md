@@ -16,3 +16,9 @@ In addition to standard edge metrics, I developed two novel metrics to enhance e
   <img src="images/EdgeMetrics2.png?raw=true">
 </div>
 
+Two depth cameras based on different technologies were selected for analysis: the **RealSense LiDAR L515** and the **RealSense D435**.
+
+The **L515** utilizes LiDAR (Light Detection and Ranging) technology, employing a laser scanning mechanism to capture high-resolution depth information. It provides exceptional depth accuracy and low noise, especially in indoor environments, and is well-suited for applications requiring fine-grained depth details such as object measurement or high-precision scanning.
+
+In contrast, the **D435** is based on stereo vision technology, using a pair of RGB sensors and an infrared projector to compute depth via disparity between images. While more versatile across various lighting conditions and typically offering a wider field of view, it is generally less accurate and noisier compared to LiDAR in terms of depth precision, particularly at longer ranges or on low-texture surfaces.
+
