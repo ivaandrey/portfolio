@@ -34,7 +34,7 @@ Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
 ## Projects  ##
 
 Throughout my professional career, I have led the research and development of multiple projects, including:  
-*(Click on each item to view detailed project information)*
+*(Click on each item to view project information)*
 + **[Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md)**
 + **[Hand Landmarks Detection](pages/hand_detection_project/hand_detection.md)**
 + **[Driver Activity Recognition for Driver Monitoring System (DMS)](pages/dms_project/dms.md)**
