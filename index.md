@@ -43,7 +43,7 @@ Throughout my professional career, I have led the research and development of mu
 + **[Age and Gender Estimation from Facial Images](pages/age_gender_project/age_gender.md)**
 + **[Mimimal Object Size Detection in Depth Images](pages/deep_mos/deep_mos.md)**
 + **[3D Object Edge Analysis in Depth Images](pages/3d_object_analysis_project/3d_object_analysis.md)**
-+ **[Artificial Trainer]** (mentored students during their B.Sc. final project)
++ **[Artificial Trainer](pages/artificial_trainer_project/artificial_trainer.md)** (mentored students during their B.Sc. final project)
 
 ---
 
