@@ -3,7 +3,7 @@
 
 Gaze direction estimation is the process of determining where a person is looking based on images or video frames. It’s widely used in applications such as driver monitoring systems, virtual and augmented reality, human-computer interaction, and medical diagnostics.
 
-I oversee the development of gaze estimation models for various screen sizes, ranging from **phones and tablets to monitors as large as 55"**. These models demonstrate high robustness, delivering **small prediction errors up to 5% of screen size**, with an **execution time of approximately 5.5 milliseconds (180 FPS) on a CPU**.
+I oversee the development of gaze estimation models for various screen sizes, ranging from **phones and tablets to monitors as large as 55"**. These models demonstrate high robustness, delivering **small prediction errors up to 6% of screen size**, with an **execution time of approximately 5.5 milliseconds (180 FPS) on a CPU**.
 
 ---
 
