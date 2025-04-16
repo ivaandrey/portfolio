@@ -15,7 +15,7 @@ I oversee the development of gaze estimation models for various screen sizes, ra
 Gaze estimation techniques can be broadly categorized into:
 
 + **Model-based methods:** relies on geometric and anatomical models of the human eye and head. It typically uses explicit feature extraction techniques, where the system detects key elements such as the pupil center, iris contour, corneal reflections, and eye corners.
-+ **Appearance-based methods:** Learn gaze patterns from raw image data using deep learning or machine learning models to directly learn gaze patterns from raw images. These methods treat gaze estimation as a regression or classification problem.  
++ **Appearance-based methods:** Learn gaze patterns from raw image data using deep learning or machine learning models. These methods treat gaze estimation as a regression or classification problem.  
 
 
 Our team focuses on an **appearance-based approach** for gaze estimation, with a pipeline consisting of several key modules, each playing a crucial role in accurately predicting gaze direction:
