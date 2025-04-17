@@ -22,5 +22,5 @@ The solution is based on pose detection analysis combined with a deep learning a
 + **Depth of Squat**: The trainee should lower themselves sufficiently to ensure the squat is deep enough for maximum effectiveness. **This criterion is implemented by analyzing the angle of the knee** during the downward phase of the squat. If the knee angle does not meet the required threshold, it indicates that the squat is not deep enough.
 
 <div style="text-align: center;">
-  <img src="images/criterions.png?raw=true" width="80%" height="80%"/>
+  <img src="images/criterions.png?raw=true" width="50%" height="50%"/>
 </div>
