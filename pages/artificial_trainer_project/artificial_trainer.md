@@ -24,3 +24,7 @@ The solution is based on pose detection analysis combined with a deep learning a
 <div style="text-align: center;">
   <img src="images/criterions.png?raw=true" width="50%" height="50%"/>
 </div>
+
+One of the challenging aspects of this project was developing the classifier to assess the straightness of the back. We decided to train a deep learning model that is fed with crops of the back region from the RGB images and outputs two possible classes: straight back and curved back. A key requirement for the developed CNN architecture was real-time runtime performance. Most well-known pretrained classification networks suffer from poor runtime performance, so we chose to implement our own classification network with a limited number of hidden layers. Additionally, the platform running the algorithm was a laptop without a GPU, making the runtime requirement critical for the success of the application.
+
+The students were instructed on how to collect the relevant data of straight and curved backs and what network architecture would be most suitable for the task. After analyzing the requirements, we decided to implement an efficient classic CNN architecture using binary cross-entropy loss. This approach was chosen to ensure a balance between performance and computational efficiency. The final trained model achieved an **accuracy of 87.98%** on the test set and a runtime of 44 frames per second (fps). 
