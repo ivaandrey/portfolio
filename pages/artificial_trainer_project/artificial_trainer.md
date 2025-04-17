@@ -18,7 +18,7 @@ The solution is based on pose detection analysis combined with a deep learning a
   <img src="images/flowchart.png?raw=true" width="80%" height="80%"/>
 </div>
 
-+ **One repetition Definition**: A single repetition of the squat exercise begins from a standing position. From there, the trainee bends down following well-defined rules, ensuring that the squat is “deep” enough. After reaching the lowest point, the trainee returns to the original standing position, ready to perform the next repetition. **The repetition is detected using angle analysis of the knee joints.**
++ **One Repetition Definition**: A single repetition of the squat exercise begins from a standing position. From there, the trainee bends down following well-defined rules, ensuring that the squat is “deep” enough. After reaching the lowest point, the trainee returns to the original standing position, ready to perform the next repetition. **The repetition is detected using angle analysis of the knee joints.**
 + **Back Straightness Criteria**: The trainee should maintain a straight back throughout the movement, both when lowering and returning to the standing position. Rounding the back under load can lead to spinal injuries, particularly in the upper or lower back. **This criterion is evaluated by a trained deep learning classifier.**
 + **Knee Alignment**: The trainee should ensure that their knees stay aligned with or behind their toes throughout the squat. Allowing the knees to extend past the toes can cause undue stress on the knee joints and increase the risk of injury. **This criterion is checked by analyzing the coordinates of the knee and toe joints.**
 + **Heel Positioning**: The trainee should keep their heels firmly planted on the ground throughout the squat, ensuring that the knees remain aligned with the feet and are not splayed in or out. Lifting the heels can destabilize the movement and lead to improper form, increasing the risk of injury. **This criterion is checked by analyzing the location of the heel joints during each repetition.**
@@ -36,3 +36,5 @@ The students were instructed on how to collect the relevant data of straight and
 <div style="text-align: center;">
   <img src="images/cnn.png?raw=true" width="80%" height="80%"/>
 </div>
+
+The developed application operates in real time, analyzing the correctness of each squat repetition, providing instant feedback to the trainee on necessary improvements, counting repetitions, and summarizing the overall execution quality at the end of the set. It also returns an overall performance grade, saves the results, and enables the trainee to track their progress over time.
