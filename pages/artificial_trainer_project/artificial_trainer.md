@@ -38,3 +38,9 @@ The students were instructed on how to collect the relevant data of straight and
 </div>
 
 The developed application operates in real time, analyzing the correctness of each squat repetition, providing instant feedback to the trainee on necessary improvements, counting repetitions, and summarizing the overall execution quality at the end of the set. It also returns an overall performance grade, saves the results, and enables the trainee to track their progress over time.
+
+You can view the full application demo [here](https://www.youtube.com/watch?v=TKfvSuj2hhs).
+
+<div style="text-align: center;">
+  <img src="images/demo.gif?raw=true" width="80%" height="80%"/>
+</div>
