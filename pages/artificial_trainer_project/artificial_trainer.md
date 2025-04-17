@@ -15,7 +15,7 @@ The developed application is designed to count the number of repetitions, assess
 The solution is based on pose detection analysis combined with a deep learning approach. Most of the algorithmic modules in the project are based on calculating the angles between relevant joints. These joints are extracted using the MediaPipe network. To evaluate the correctness of a squat exercise, we defined five criteria that must be met to consider a single repetition as properly performed. In addition, a squat repetition detection module was developed based on the angle span of the knees.
 
 <div style="text-align: center;">
-  <img src="images/flowchart.png?raw=true" width="50%" height="50%"/>
+  <img src="images/flowchart.png?raw=true" width="80%" height="80%"/>
 </div>
 
 + **One repetition Definition**: A single repetition of the squat exercise begins from a standing position. From there, the trainee bends down following well-defined rules, ensuring that the squat is “deep” enough. After reaching the lowest point, the trainee returns to the original standing position, ready to perform the next repetition. **The repetition is detected using angle analysis of the knee joints.**
