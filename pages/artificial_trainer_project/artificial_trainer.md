@@ -10,9 +10,9 @@ The main goal of the project was to develop an application called an **Artificia
   <img src="images/squat1.png?raw=true" width="20%" height="20%"/>
 </div>
 
-The developed application is designed to count the number of repetitions, assess the performance of each repetition, provide real-time warnings about the correctness of the exercise, and estimate the final score for the performance of a set of squats. To accurately estimate the exercise and assess the user’s performance, it is essential to define the requirements for the squat exercise, including specifying the correct movement patterns, as well as the range and limits for each movement.
+The developed application is designed to count squat repetitions, assess the performance of each repetition, provide real-time feedback on exercise correctness, and estimate a final score for an entire set. To accurately evaluate the exercise and assess the user’s performance, it is essential to define specific requirements for the squat exercise — including correct movement patterns, acceptable ranges, and movement limits.
 
-The solution is based on pose detection analysis combined with a deep learning approach. Most of the algorithmic modules in the project are based on calculating the angles between relevant joints. These joints are extracted using the MediaPipe network. To evaluate the correctness of a squat exercise, we defined five criteria that must be met to consider a single repetition as properly performed. In addition, a squat repetition detection module was developed based on the angle span of the knees.
+The solution combines pose detection analysis with a deep learning approach. Most of the algorithmic modules are based on calculating angles between key joints, which are extracted using the MediaPipe network. To determine whether a squat repetition is correctly performed, we defined five key criteria. Additionally, a dedicated repetition detection module was developed, which relies on analyzing the knee angle span.
 
 <div style="text-align: center;">
   <img src="images/flowchart.png?raw=true" width="80%" height="80%"/>
@@ -31,13 +31,13 @@ The solution is based on pose detection analysis combined with a deep learning a
 
 One of the challenging aspects of this project was developing the classifier to assess the straightness of the back. **We decided to train a deep learning model that is fed with crops of the back region from the RGB images and outputs two possible classes: straight back and curved back.** A key requirement for the developed CNN architecture was real-time runtime performance. Most well-known pretrained classification networks suffer from poor runtime performance, so we chose to implement our own classification network with a limited number of hidden layers. Additionally, the platform running the algorithm was a laptop without a GPU, making the runtime requirement critical for the success of the application.
 
-The students were instructed on how to collect the relevant data of straight and curved backs and what network architecture would be most suitable for the task. After analyzing the requirements, we decided to implement an efficient classic CNN architecture using binary cross-entropy loss. This approach was chosen to ensure a balance between performance and computational efficiency. The final trained model achieved an **accuracy of 87.98%** on the test set and a **runtime of 44 frames per second (fps)**.
+The students were guided on how to collect relevant data for both straight and curved backs, as well as on selecting an appropriate network architecture for the task. After analyzing the project requirements, we decided to implement an efficient, classic CNN architecture using binary cross-entropy loss. This approach was chosen to balance classification performance with computational efficiency. The final trained model achieved an **accuracy of 87.98%** on the test set and delivered real-time performance with a **runtime of 44 frames per second (fps)**.
 
 <div style="text-align: center;">
   <img src="images/cnn.png?raw=true" width="80%" height="80%"/>
 </div>
 
-The developed application operates in real time, analyzing the correctness of each squat repetition, providing instant feedback to the trainee on necessary improvements, counting repetitions, and summarizing the overall execution quality at the end of the set. It also returns an overall performance grade, saves the results, and enables the trainee to track their progress over time.
+The developed application operates in real time on CPU, analyzing the correctness of each squat repetition, providing instant feedback to the trainee on necessary improvements, counting repetitions, and summarizing the overall execution quality at the end of the set. Additionally, it returns an overall performance grade, saves the results, and enables the trainee to track their progress over time.
 
 You can view the full application demo [here](https://www.youtube.com/watch?v=TKfvSuj2hhs).
 
