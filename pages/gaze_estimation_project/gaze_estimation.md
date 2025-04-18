@@ -20,7 +20,7 @@ Gaze estimation techniques can be broadly categorized into:
 
 Our team focuses on an **appearance-based approach** for gaze estimation, with a pipeline consisting of several key modules, each playing a crucial role in accurately predicting gaze direction:
 
-+ **Face Detection:** The first step is identifying and locating the face within an image. **YOLOv5**-based models are trained to detect faces under varying camera angles, head poses, lighting conditions, distances from the camera, and across different camera types (such as RGB and IR).
++ **Face Detection:** The first step is identifying and locating the face within an image. [**YOLOv5Face**](https://arxiv.org/pdf/2105.12931)-based models are trained to detect faces under varying camera angles, head poses, lighting conditions, distances from the camera, and across different camera types (such as RGB and IR).
 
 + **Landmark Detection:** Once the face is detected, facial landmarks are identified. These landmarks mark key facial features such as the eyes, eyebrows, and nose. Landmark detection is essential for understanding the relative positions of the eyes, which are crucial for gaze estimation. We train a **multi-branch regression model** to accurately estimate the landmarks.
 
