@@ -1,5 +1,5 @@
 ## About Me ##
-I have extensive experience in leading end-to-end development—from problem definition and research to deployment—while managing AI team and aligning technical solutions with business objectives.
+I have extensive experience in leading end-to-end development—from problem definition and research to deployment—while managing AI team and ensuring that technical solutions align with business objectives
 As an attentive and detail-oriented engineer, I possess in-depth knowledge and strong algorithmic and problem-solving skills.
 My expertise lies in research and creative thinking, with a strong aptitude for methodical and analytical problem-solving.
 I am a responsible professional with excellent communication skills, always looking for new and innovative ways to solve challenging problems. I am open to working both as part of a team and independently.
