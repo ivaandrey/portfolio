@@ -48,7 +48,7 @@ Throughout my professional career, I have led the research and development of mu
 
 #### Sr. Computer Vision & Algorithms Engineer | 03/2019-10/2021 ####
 
-### [Inspiring Vision Ltd]() ###
+### [Inspiring Vision Ltd] ###
 
 #### Computer Vision & Deep Learning Engineer (Contract) | 11/2018-03/2019 ####
 
