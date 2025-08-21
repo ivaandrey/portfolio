@@ -22,6 +22,12 @@
 
 #### - Skills: ####
 
++ **Programming**: Python, C/C++, MATLAB
++ **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV
++ **Model Optimization & Deployment**: ONNX, ONNX Runtime
++ **Tools**: Git, PyCharm
+
+
 Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
 
 ---
