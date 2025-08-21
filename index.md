@@ -1,10 +1,15 @@
 ## About Me ##
-I have extensive experience in leading end-to-end development—from problem definition and research to deployment—while managing AI team and ensuring that technical solutions align with business objectives.
-As an attentive and detail-oriented engineer, I possess in-depth knowledge and strong algorithmic and problem-solving skills.
-My expertise lies in research and creative thinking, with a strong aptitude for methodical and analytical problem-solving.
-I am a responsible professional with excellent communication skills, always looking for new and innovative ways to solve challenging problems. I am open to working both as part of a team and independently.
+𝐀𝐈 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 𝐋𝐞𝐚𝐝𝐞𝐫 with 𝟏𝟕+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐯𝐢𝐬𝐢𝐨𝐧 and 𝐝𝐞𝐞𝐩 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠, driving solutions from 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 𝐝𝐞𝐬𝐢𝐠𝐧 to 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐝𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 that deliver measurable product and business impact.
+At 𝐁𝐥𝐢𝐧𝐤 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬, I combine 𝐡𝐚𝐧𝐝𝐬-𝐨𝐧 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 with 𝐭𝐞𝐚𝐦 𝐥𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩, building advanced vision modules for 𝐟𝐚𝐜𝐞, 𝐡𝐚𝐧𝐝 and 𝐨𝐩𝐭𝐨𝐦𝐞𝐭𝐫𝐲 𝐬𝐲𝐬𝐭𝐞𝐦𝐬.
 
-In my current role I lead the AI algorithm team focused on developing advanced deep learning models for various projects. I oversee the research, development, optimization, and deployment of these models. My responsibilities include technical leadership, covering algorithm design, model training, dataset curation, and performance evaluation. Additionally, our team supports the deployment and integration of the developed networks into SDKs, ensuring robust and accurate performance.
+𝐊𝐞𝐲 𝐡𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬 𝐢𝐧𝐜𝐥𝐮𝐝𝐞:
+• 𝐏𝐢𝐨𝐧𝐞𝐞𝐫𝐞𝐝 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐂𝐕/𝐃𝐋 𝐦𝐨𝐝𝐮𝐥𝐞𝐬, transforming research into production
+• 𝐈𝐦𝐩𝐫𝐨𝐯𝐞𝐝 𝐠𝐚𝐳𝐞 𝐞𝐬𝐭𝐢𝐦𝐚𝐭𝐢𝐨𝐧 𝐚𝐜𝐜𝐮𝐫𝐚𝐜𝐲 𝐛𝐲 𝟖% across diverse devices
+• 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐝 𝐨𝐯𝐞𝐫 𝟏𝟓𝟎 𝐅𝐏𝐒 in real-time hand tracking and motion detection
+• 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐞𝐝 ~𝟎.𝟓𝐦𝐦 lens measurement accuracy, enabling accurate lens size calculation from a single RGB image
+Previously at 𝐈𝐧𝐭𝐞𝐥 𝐑𝐞𝐚𝐥𝐒𝐞𝐧𝐬𝐞, I advanced 𝐨𝐛𝐣𝐞𝐜𝐭 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 and 𝐝𝐞𝐩𝐭𝐡 𝐪𝐮𝐚𝐥𝐢𝐭𝐲 𝐦𝐞𝐭𝐫𝐢𝐜𝐬 for 𝐋𝐢𝐃𝐀𝐑 and 𝐝𝐞𝐩𝐭𝐡 𝐜𝐚𝐦𝐞𝐫𝐚𝐬, developing a 𝐘𝐎𝐋𝐎𝐯𝟑-based model with ~𝟗𝟓% 𝐚𝐜𝐜𝐮𝐫𝐚𝐜𝐲 on objects as small as 𝟏𝟑𝐦𝐦.
+Earlier at 𝐑𝐚𝐟𝐚𝐞𝐥 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐃𝐞𝐟𝐞𝐧𝐬𝐞 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 and 𝐈𝐧𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐕𝐢𝐬𝐢𝐨𝐧, I engineered 𝐝𝐞𝐟𝐞𝐧𝐬𝐞-𝐠𝐫𝐚𝐝𝐞 𝐂𝐕 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 and conducted 𝐚𝐩𝐩𝐥𝐢𝐞𝐝 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡, building expertise in 𝐫𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧 and cross-functional collaboration.
+I thrive in roles blending 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐨𝐰𝐧𝐞𝐫𝐬𝐡𝐢𝐩, 𝐥𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩, and 𝐚𝐩𝐩𝐥𝐢𝐞𝐝 𝐀𝐈 𝐢𝐦𝐩𝐚𝐜𝐭.
 
 ---
 
