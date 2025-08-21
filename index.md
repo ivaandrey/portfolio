@@ -48,14 +48,12 @@ Throughout my professional career, I have led the research and development of mu
 
 #### Sr. Computer Vision & Algorithms Engineer | 03/2019-10/2021 ####
 
-### [Inspiring Vision Ltd] ###
+### Inspiring Vision Ltd ###
 
 #### Computer Vision & Deep Learning Engineer (Contract) | 11/2018-03/2019 ####
 
 <img src="images/Rafael_logo_border.jpg?raw=true" width="5%" height="5%"/>
 ### [Rafael Advanced Defense Systems Ltd](https://www.rafael.co.il/) ###
-
-### - Computer Vision System Engineer ###
 
 #### Computer Vision System Engineer | 02/2018-03/2019 #### 
 #### Sr. Computer Vision Engineer | 01/2013-02/2018 #### 
