@@ -3,33 +3,20 @@
 
 ---
 
-## Areas of Expertise and Skills  ##
+## Core Competencies  ##
 
-#### - My Main Areas of Expertise: ####
++ **Computer Vision & AI**: Face Analysis, Hand Tracking, Gaze Estimation, 3D Geometry
++ **Deep Learning**: CNNs, Object Detection, Segmentation, Classification
++ **Leadership & Delivery**: Team Leadership, Project Ownership, Deployment
++ **Systems Expertise**: Real-Time AI Systems, Model Optimization, Edge Devices
 
-**1. Deep Learning for Computer Vision:**
-+ Gaze Estimation and Eye Tracking
-+ Hand and Landmark Detection
-+ Facial Attributes Analysis
-+ Object Detection, Classification & Segmentation
-+ Regression Neural Networks
-  
-**2. Classical Computer Vision:**
-+ 3D Point Cloud Algorithms
-+ Depth Image Processing
-+ Point Source Targets Detection and Tracking
-+ Motion Detection and Estimation
-
-#### - Skills: ####
+#### Technical Skills: ####
 
 + **Programming**: Python, C/C++, MATLAB
 + **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV
 + **Model Optimization & Deployment**: ONNX, ONNX Runtime
 + **Tools**: Git, PyCharm
-
-
-Python, OpenCV, Pytorch, TensorFlow, Matlab, C/C+, Git
-
++ 
 ---
 
 ## Projects  ##
