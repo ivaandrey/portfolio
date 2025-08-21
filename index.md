@@ -1,10 +1,5 @@
 ## About Me ##
-**AI Algorithm Leader** with **17+ years** designing and deploying **advanced real-time Computer Vision and Deep Learning solutions**.  
-Proven track record in building **production-grade modules** for **consumer and defense products**.  
-**Expert in face, gaze, and hand tracking**.  
-Combines **deep algorithmic skills** with **strong leadership**, delivering **production-ready CV systems** end-to-end.  
-Known for **turning research into measurable product impact**.  
-**Passionate about building vision systems** where **applied AI** creates **meaningful impact** in **consumer tech** and **vision-driven products**.
+**AI Algorithm Leader** with **17+ years** designing and deploying **advanced real-time Computer Vision and Deep Learning solutions**. Proven track record in building **production-grade modules** for **consumer and defense products**. **Expert in face, gaze, and hand tracking**. Combines **deep algorithmic skills** with **strong leadership**, delivering **production-ready CV systems** end-to-end. Known for **turning research into measurable product impact**. **Passionate about building vision systems** where **applied AI** creates **meaningful impact** in **consumer tech** and **vision-driven products**.
 
 ---
 
