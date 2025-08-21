@@ -11,7 +11,7 @@ Currently leading a **2-engineer AI team at Blink Technologies**, applying **han
 + **Leadership & Delivery**: Team Leadership, Project Ownership, Deployment
 + **Systems Expertise**: Real-Time AI Systems, Model Optimization, Edge Devices
 
-## Technical Skills: ##
+## Technical Skills ##
 
 + **Programming**: Python, C/C++, MATLAB
 + **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV
@@ -37,10 +37,10 @@ Throughout my professional career, I have led the research and development of mu
 
 ## Experience  ##
 
-### - AI Algorithm Team Tech Lead and Researcher ###
+### - AI Algorithm Team Lead ###
 
 <img src="images/blink_technologies_incorporation_logo.jpg?raw=true" width="5%" height="5%"/>
-#### 10/2021 - Present : [Blink Technologies, Inc](http://www.blinkeye.ai/) ####
+#### 11/2024 - Present : [Blink Technologies, Inc](http://www.blinkeye.ai/) ####
 
 ### - Sr. Computer Vision and Algorithm Engineer ###
 
