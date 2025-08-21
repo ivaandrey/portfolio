@@ -11,7 +11,7 @@ Currently leading a **2-engineer AI team at Blink Technologies**, applying **han
 + **Leadership & Delivery**: Team Leadership, Project Ownership, Deployment
 + **Systems Expertise**: Real-Time AI Systems, Model Optimization, Edge Devices
 
-#### Technical Skills: ####
+## Technical Skills: ##
 
 + **Programming**: Python, C/C++, MATLAB
 + **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV
