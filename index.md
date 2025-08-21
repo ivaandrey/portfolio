@@ -37,9 +37,12 @@ Throughout my professional career, I have led the research and development of mu
 
 ## Experience  ##
 
-### - AI Algorithm Team Lead ###
-
 <img src="images/blink_technologies_incorporation_logo.jpg?raw=true" width="5%" height="5%"/>
+### [Blink Technologies, Inc](http://www.blinkeye.ai/) ###
+
+#### AI Algorithm Team Lead | 11/2024-Present ####
+#### AI Algorithm Researcher | 10/2021-11/2024 ####
+
 #### 11/2024 - Present : [Blink Technologies, Inc](http://www.blinkeye.ai/) ####
 
 ### - Sr. Computer Vision and Algorithm Engineer ###
@@ -63,7 +66,7 @@ Throughout my professional career, I have led the research and development of mu
 
 My M.Sc. research focused on **Object Tracking by Online Adaptive AdaBoost Classifiers**
 
-[*Tracking by Online Adaptive AdaBoost Classifiers*](https://www.youtube.com/watch?v=7SY7zlmDr0M) is a machine learning-based object tracking approach that dynamically adapts over time using AdaBoost classifiers. It is particularly effective for tracking objects in real-time video streams, even when appearance changes due to lighting variations, occlusions, and motion blur.
+[*Tracking with Online Adaptive Classifiers*](https://www.youtube.com/watch?v=7SY7zlmDr0M) is a machine learning-based object tracking approach that dynamically adapts over time using AdaBoost classifiers. It is particularly effective for tracking objects in real-time video streams, even when appearance changes due to lighting variations, occlusions, and motion blur.
 
 The core of my approach involves the online selection of the most discriminative Haar-like features, which enables the tracker to effectively separate the target from the surrounding background. This method formulates tracking as a classification problem, leveraging boosting techniques and online learning to develop a classifier that can continuously adapt and distinguish the target from its environment.
 
