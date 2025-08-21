@@ -1,6 +1,6 @@
 ## About Me ##
-**AI Algorithm Leader** with **17+ years** designing and deploying **advanced real-time Computer Vision and Deep Learning solutions**. Proven track record in building **production-grade modules** for **consumer and defense products**. **Expert in face, gaze, and hand tracking**.  
-Currently leading a **2-engineer AI team at Blink Technologies**, applying **hands-on technical innovation** alongside **team leadership**, and building **advanced vision modules** for **face, hand, and optometry systems**. Brings together **deep algorithmic skills** with **strong leadership**, delivering **production-ready CV systems** end-to-end. Known for **turning research into measurable product impact**. **Passionate about building vision systems** where **applied AI** creates **meaningful impact** in **consumer tech** and **vision-driven products**.
+**AI Algorithm Leader** with **17+ years** designing and deploying advanced **real-time Computer Vision and Deep Learning solutions**. Proven track record in building **production-grade modules** for consumer and defense products. **Expert** in **face, gaze, and hand tracking**.  
+Currently leading a 2-engineer AI team at Blink Technologies, applying **hands-on technical innovation** alongside **team leadership**, and building **advanced vision modules** for **face, hand, and optometry systems**. Brings together **deep algorithmic skills** with **strong leadership**, delivering **production-ready CV systems** end-to-end. Known for **turning research into measurable product impact**. **Passionate about building vision systems** where **applied AI** creates **meaningful impact** in **consumer tech** and **vision-driven products**.
 
 ---
 
@@ -16,7 +16,7 @@ Currently leading a **2-engineer AI team at Blink Technologies**, applying **han
 + **Programming**: Python, C/C++, MATLAB
 + **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV
 + **Model Optimization & Deployment**: ONNX, ONNX Runtime
-+ **Tools**: Git, PyCharm 
++ **Tools**: Git, PyCharm
 ---
 
 ## Projects  ##
