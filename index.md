@@ -28,12 +28,10 @@ A selection of impactful real-world projects combining algorithm innovation, rea
 **Deep learning pipeline** for real-time gaze direction and eye state classification.  
 Achieved **8% accuracy improvement** across multiple devices.  
 Deployed in production in consumer-facing vision products.  
-**Tools**: PyTorch, OpenCV, ONNX
 
 #### ✋ [Real-Time Hand Tracking & Motion Detection](pages/hand_detection_project/hand_detection.md) ####  
-High-speed CV pipeline running at **150+ FPS** on edge devices.  
+Pioneered implementation of a high-speed CV pipeline running at **150+ FPS** on edge devices.  
 Enables intuitive gesture-based interaction in HCI platforms.  
-**Tools**: PyTorch, OpenCV, ONNX, YOLOv5, hand keypoints extraction
 
 + **[Hand Landmarks Detection](pages/hand_detection_project/hand_detection.md)**
 + **[Driver Activity Recognition for Driver Monitoring System (DMS)](pages/dms_project/dms.md)**
