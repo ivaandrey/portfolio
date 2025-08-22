@@ -23,6 +23,12 @@
 
 A selection of impactful real-world projects combining algorithm innovation, real-time performance, and production deployment:  
 *(Click to explore each project)*
+### 🎯 [Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md)**
+**Deep learning pipeline** for real-time gaze direction and eye state classification.  
+Achieved **8% accuracy improvement** across multiple devices.  
+Deployed in production in consumer-facing vision products.  
+**Tools**: PyTorch, OpenCV, lightweight CNNs, ONNX
+
 + **[Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md)**
 + **[Hand Landmarks Detection](pages/hand_detection_project/hand_detection.md)**
 + **[Driver Activity Recognition for Driver Monitoring System (DMS)](pages/dms_project/dms.md)**
