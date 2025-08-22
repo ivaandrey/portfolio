@@ -19,10 +19,10 @@ Currently leading a 2-engineer AI team at Blink Technologies, applying **hands-o
 + **Tools**: Git, PyCharm
 ---
 
-## Projects  ##
+## Key AI & Computer Vision Projects  ##
 
-Throughout my professional career, I have led the research and development of multiple projects, including:  
-*(Click on each item to view project information)*
+A selection of impactful real-world projects combining algorithm innovation, real-time performance, and production deployment:  
+*(Click to explore each project)*
 + **[Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md)**
 + **[Hand Landmarks Detection](pages/hand_detection_project/hand_detection.md)**
 + **[Driver Activity Recognition for Driver Monitoring System (DMS)](pages/dms_project/dms.md)**
@@ -41,7 +41,7 @@ Throughout my professional career, I have led the research and development of mu
 <img src="images/blink_technologies_incorporation_logo.jpg?raw=true" width="5%" height="5%"/>
 
 #### - AI Algorithm Team Lead | 11/2024-Present ####  
-##### - AI Algorithm Researcher | 10/2021-11/2024 ####
+#### - AI Algorithm Researcher | 10/2021-11/2024 ####
 
 #### [Intel corporation Ltd - RealSense](https://www.intelrealsense.com/) ####
 <img src="images/intel_corporation_logo.jpg?raw=true" width="5%" height="5%"/>
