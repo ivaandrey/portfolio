@@ -27,7 +27,7 @@ To address the lack of labeled IR datasets, we adopted a **self-training (pseudo
 ### 🔍 Hand Landmark Pipeline Overview ###
 
 **➤ Hand Detection:** The first step involves detecting and localizing the hand in an image or video stream. Based on **YOLOv5**, trained to detect hands across various poses, lighting, and camera types.  
-**➤ Hand Region Crop & Normalization:**  Once the hand is detected, the next step is to extract the region of interest (ROI) that contains the hand. The cropped hand region is then normalized to ensure consistent input size and orientation. 
+**➤ Hand Region Crop & Normalization:**  Once the hand is detected, the next step is to extract the region of interest (ROI) that contains the hand. The cropped hand region is then normalized to ensure consistent input size and orientation.  
 **➤ Landmark Estimation:** This step identifies key points or landmarks on the hand, such as fingertips, knuckles, and wrist. We train a **multi-branch regression model** to accurately estimate the positions of 21 key hand landmarks.
 
 ---
