@@ -10,9 +10,6 @@ Currently leading a 2-engineer AI team at Blink Technologies, applying **hands-o
 + **Deep Learning**: CNNs, Object Detection, Segmentation, Classification
 + **Leadership & Delivery**: Team Leadership, Project Ownership, Deployment
 + **Systems Expertise**: Real-Time AI Systems, Model Optimization, Edge Devices
-+ **Programming & Tools**: Python, C/C++, MATLAB, Git, PyCharm
-+ **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV
-+ **Model Optimization & Deployment**: ONNX, ONNX Runtime
 
 ## Technical Skills ##
 
@@ -43,24 +40,24 @@ Throughout my professional career, I have led the research and development of mu
 #### [Blink Technologies, Inc](http://www.blinkeye.ai/) ####
 <img src="images/blink_technologies_incorporation_logo.jpg?raw=true" width="5%" height="5%"/>
 
-##### - AI Algorithm Team Lead | 11/2024-Present #####  
-##### - AI Algorithm Researcher | 10/2021-11/2024 #####
+#### - AI Algorithm Team Lead | 11/2024-Present ####  
+##### - AI Algorithm Researcher | 10/2021-11/2024 ####
 
 #### [Intel corporation Ltd - RealSense](https://www.intelrealsense.com/) ####
 <img src="images/intel_corporation_logo.jpg?raw=true" width="5%" height="5%"/>
 
-##### - Sr. Computer Vision & Algorithms Engineer | 03/2019-10/2021 #####
+#### - Sr. Computer Vision & Algorithms Engineer | 03/2019-10/2021 ####
 
 #### [Inspiring Vision Ltd]() ####
 
-##### - Computer Vision & Deep Learning Engineer (Contract) | 11/2018-03/2019 #####
+#### - Computer Vision & Deep Learning Engineer (Contract) | 11/2018-03/2019 ####
 
 #### [Rafael Advanced Defense Systems Ltd](https://www.rafael.co.il/) ####
 <img src="images/Rafael_logo_border.jpg?raw=true" width="5%" height="5%"/>
 
-##### - Computer Vision System Engineer | 02/2018-03/2019 ##### 
-##### - Sr. Computer Vision Engineer | 01/2013-02/2018 ##### 
-##### - Computer Vision Engineer | 04/2008-01/2013 #####
+#### - Computer Vision System Engineer | 02/2018-03/2019 #### 
+#### - Sr. Computer Vision Engineer | 01/2013-02/2018 #### 
+#### - Computer Vision Engineer | 04/2008-01/2013 ####
 
 ---
 
