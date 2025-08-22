@@ -29,7 +29,8 @@ A selection of impactful real-world projects combining algorithm innovation, rea
 Achieved **8% accuracy improvement** across multiple devices.  
 Deployed in production in consumer-facing vision products.  
 
-#### ✋ [Real-Time Hand Tracking & Motion Detection](pages/hand_detection_project/hand_detection.md) (Blink Technologies) ####  
+#### ✋ [Hand Tracking & Motion Detection](pages/hand_detection_project/hand_detection.md) (Blink Technologies) #### 
+**Real-time hand tracking** and 21-point landmark estimation for motion control
 **Pioneered implementation** of a high-speed CV pipeline running at **150+ FPS** on edge devices.  
 Enables intuitive gesture-based interaction in HCI platforms.  
 
@@ -48,7 +49,6 @@ Led the development of an image-based deep learning system for **automatic glass
 Enabled real-time, calibration-free lens measurement using only RGB images.  
 Achieved **±0.5mm accuracy** in lens size estimation, supporting **optical retail and tele-optometry**.
 
-+ **[Glasses Lens Measurement for Optometric Applications](pages/optometry_project/optometry.md)**
 + **[Age and Gender Estimation from Facial Images](pages/age_gender_project/age_gender.md)**
 + **[Mimimal Object Size Detection in Depth Images](pages/deep_mos/deep_mos.md)**
 + **[3D Object Edge Analysis in Depth Images](pages/3d_object_analysis_project/3d_object_analysis.md)**
