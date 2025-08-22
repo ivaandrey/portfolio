@@ -43,8 +43,11 @@ Developed deep learning models to classify **eye openness** and **blinks**.
 Enables accurate gating of gaze estimation pipeline for **driver monitoring** and **HCI applications**.  
 Achieved **840 FPS on CPU** and **0.905 F1 score** using lightweight CNN architecture.
 
+#### 🕶️ [Glasses Lens Measurement for Optometric Applications](pages/optometry_project/optometry.md) (Blink Technologies) ####
+Led the development of an image-based deep learning system for **automatic glasses lens fitting and size estimation**.  
+Enabled real-time, calibration-free lens measurement using only RGB images.  
+Achieved **±0.5mm accuracy** in lens size estimation, supporting **optical retail and tele-optometry**.
 
-+ **[Eye State Classification](pages/eye_analysis_project/eye_analysis.md)**
 + **[Glasses Lens Measurement for Optometric Applications](pages/optometry_project/optometry.md)**
 + **[Age and Gender Estimation from Facial Images](pages/age_gender_project/age_gender.md)**
 + **[Mimimal Object Size Detection in Depth Images](pages/deep_mos/deep_mos.md)**
