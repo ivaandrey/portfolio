@@ -4,7 +4,7 @@
 body {
   background-color: #FFFFFC;
   padding: 50px;
-  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#3C3C3C;
   font-weight:400;
 }
@@ -41,7 +41,7 @@ a {
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
+  -weight: bold;
 }
 
 a small {
@@ -120,7 +120,7 @@ kbd {
 }
 
 header {
-  width:430px;
+  width:350px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
