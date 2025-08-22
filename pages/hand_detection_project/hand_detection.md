@@ -39,7 +39,7 @@ Algorithms for various gestures and motions, such as **closed fist**, **open han
 The **full pipeline**, including **hand landmark detection** and **motion classification**, runs at **150+ FPS on CPU**, enabling **real-time hand motion control** in edge devices.
 
 <div style="text-align: center;">
-  <img src="images/motions_short.gif?raw=true" width="60%" height="60%"/>
+  <img src="images/motions_short.gif?raw=true" width="80%" height="80%"/>
 </div>
 
 When integrated with ***[Gaze Estimation](../gaze_estimation_project/gaze_estimation.md)*** in **HCI systems**, this creates a seamless multimodal interface — ideal for **smart homes**, **automotive interfaces**, **VR/AR**, and **touchless UIs**.
