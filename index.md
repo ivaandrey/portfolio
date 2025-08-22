@@ -17,6 +17,7 @@ Currently leading a **2-engineer AI team at Blink Technologies**, applying **han
 + **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV
 + **Model Optimization & Deployment**: ONNX, ONNX Runtime
 + **Tools**: Git, PyCharm
+  
 ---
 
 ## Key AI & Computer Vision Projects  ##
@@ -27,9 +28,13 @@ A selection of impactful real-world projects combining algorithm innovation, rea
 **Deep learning pipeline** for real-time gaze direction and eye state classification.  
 Achieved **8% accuracy improvement** across multiple devices.  
 Deployed in production in consumer-facing vision products.  
-**Tools**: PyTorch, OpenCV, lightweight CNNs, ONNX
+**Tools**: PyTorch, OpenCV, ONNX
 
-+ **[Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md)**
+#### ✋ [Real-Time Hand Tracking & Motion Detection](pages/hand_detection_project/hand_detection.md) ####  
+High-speed CV pipeline running at **150+ FPS** on edge devices.  
+Enables intuitive gesture-based interaction in HCI platforms.  
+**Tools**: PyTorch, OpenCV, ONNX, YOLOv5, hand keypoints extraction
+
 + **[Hand Landmarks Detection](pages/hand_detection_project/hand_detection.md)**
 + **[Driver Activity Recognition for Driver Monitoring System (DMS)](pages/dms_project/dms.md)**
 + **[Eye State Classification](pages/eye_analysis_project/eye_analysis.md)**
