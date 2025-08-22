@@ -13,7 +13,7 @@ Currently leading a 2-engineer AI team at Blink Technologies, applying **hands-o
 
 ## Technical Skills ##
 
-+ **Programming & Tools**: Python, C/C++, MATLAB, Git, PyCharm
++ **Programming**: Python, C/C++, MATLAB, Git
 + **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV
 + **Model Optimization & Deployment**: ONNX, ONNX Runtime
 + **Tools**: Git, PyCharm
