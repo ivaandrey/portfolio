@@ -13,10 +13,9 @@ Currently leading a 2-engineer AI team at Blink Technologies, applying **hands-o
 
 ## Technical Skills ##
 
-+ **Programming**: Python, C/C++, MATLAB
++ **Programming & Tools**: Python, C/C++, MATLAB, Git, PyCharm
 + **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV
 + **Model Optimization & Deployment**: ONNX, ONNX Runtime
-+ **Tools**: Git, PyCharm
 ---
 
 ## Projects  ##
@@ -37,11 +36,12 @@ Throughout my professional career, I have led the research and development of mu
 
 ## Experience  ##
 
+#### [Blink Technologies, Inc](http://www.blinkeye.ai/) ####
 <img src="images/blink_technologies_incorporation_logo.jpg?raw=true" width="5%" height="5%"/>
-### [Blink Technologies, Inc](http://www.blinkeye.ai/) ###
 
-#### AI Algorithm Team Lead | 11/2024-Present ####
-#### AI Algorithm Researcher | 10/2021-11/2024 ####
+
+##### AI Algorithm Team Lead | 11/2024-Present #####
+##### AI Algorithm Researcher | 10/2021-11/2024 #####
 
 <img src="images/intel_corporation_logo.jpg?raw=true" width="5%" height="5%"/>
 ### [Intel corporation Ltd - RealSense](https://www.intelrealsense.com/) ###
