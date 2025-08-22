@@ -36,6 +36,11 @@ To address the lack of labeled IR datasets, we adopted a **self-training (pseudo
 
 This module involves analyzing the detected hand landmarks to identify specific gestures or track hand movements. By evaluating the relative positions and movements of the landmarks, the system can recognize predefined gestures or track dynamic hand motions.
 Algorithms for various gestures and motions, such as **closed fist**, **open hand**, **pinch**, **zoom in**, **zoom out**, and **hand rotation**, are implemented by analyzing these relative positions over time.
+The **full pipeline**, including **hand landmark detection** and **motion classification**, runs at **150+ FPS on CPU**, enabling **real-time hand motion control** in edge devices.
+
+<div style="text-align: center;">
+  <img src="images/motions_short.gif?raw=true" width="60%" height="60%"/>
+</div>
 
 When integrated with ***[Gaze Estimation](../gaze_estimation_project/gaze_estimation.md)*** in **HCI systems**, this creates a seamless multimodal interface — ideal for **smart homes**, **automotive interfaces**, **VR/AR**, and **touchless UIs**.
 
