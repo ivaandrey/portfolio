@@ -39,8 +39,8 @@ Throughout my professional career, I have led the research and development of mu
 #### [Blink Technologies, Inc](http://www.blinkeye.ai/) ####
 <img src="images/blink_technologies_incorporation_logo.jpg?raw=true" width="5%" height="5%"/>
 
-    ##### AI Algorithm Team Lead | 11/2024-Present #####  
-    ##### AI Algorithm Researcher | 10/2021-11/2024 #####
+#####      AI Algorithm Team Lead | 11/2024-Present #####  
+#####      AI Algorithm Researcher | 10/2021-11/2024 #####
 
 #### [Intel corporation Ltd - RealSense](https://www.intelrealsense.com/) ####
 <img src="images/intel_corporation_logo.jpg?raw=true" width="5%" height="5%"/>
@@ -49,7 +49,7 @@ Throughout my professional career, I have led the research and development of mu
 
 #### [Inspiring Vision Ltd]() ####
 
-#### Computer Vision & Deep Learning Engineer (Contract) | 11/2018-03/2019 ####
+##### Computer Vision & Deep Learning Engineer (Contract) | 11/2018-03/2019 #####
 
 #### [Rafael Advanced Defense Systems Ltd](https://www.rafael.co.il/) ####
 <img src="images/Rafael_logo_border.jpg?raw=true" width="5%" height="5%"/>
