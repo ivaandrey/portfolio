@@ -1,4 +1,4 @@
-## Hand & Landmark Detection ##
+## Hand Tracking and Motion Detection ##
 
 **Hand Detection** involves identifying and localizing hands in visual data, while **Hand Landmark Estimation** focuses on detecting key points — such as fingertips, knuckles, and the wrist — enabling precise tracking of hand motion. These capabilities are essential for applications like **gesture recognition**, **sign language interpretation**, **VR/AR**, and **human-computer interaction (HCI)**.
 
