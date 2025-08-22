@@ -1,6 +1,6 @@
 ## About Me ##
 **AI Algorithm Leader** with **17+ years** designing and deploying advanced **real-time Computer Vision and Deep Learning solutions**. Proven track record in building **production-grade modules** for consumer and defense products. **Expert** in **face, gaze, and hand tracking**.  
-**Currently leading a 2-engineer AI team** at Blink Technologies, applying **hands-on technical innovation** alongside **team leadership**, and building **advanced vision modules** for face, hand, and optometry systems. Brings together **deep algorithmic skills** with **strong leadership**, delivering **production-ready CV systems** end-to-end. Known for **turning research into measurable product impact**. **Passionate about building vision systems** where **applied AI** creates **meaningful impact** in **consumer tech** and **vision-driven products**.
+Currently leading a **2-engineer AI team at Blink Technologies**, applying **hands-on technical innovation** while guiding the development of **advanced vision modules** for **face, hand, and optometry systems**. Brings together **deep algorithmic skills** with **strong leadership**, delivering **production-ready CV systems** end-to-end. Known for **turning research into measurable product impact**. **Passionate about building vision systems** where **applied AI** creates **meaningful impact** in **consumer tech** and **vision-driven products**.
 
 ---
 
@@ -23,7 +23,7 @@
 
 A selection of impactful real-world projects combining algorithm innovation, real-time performance, and production deployment:  
 *(Click to explore each project)*
-### 🎯 [Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md)**
+#### 🎯 [Gaze Direction Estimation](pages/gaze_estimation_project/gaze_estimation.md) ####
 **Deep learning pipeline** for real-time gaze direction and eye state classification.  
 Achieved **8% accuracy improvement** across multiple devices.  
 Deployed in production in consumer-facing vision products.  
