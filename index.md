@@ -51,22 +51,22 @@ Achieved **0.781 F1** and **200 FPS** on CPU , using synthetic data **generated 
 
 ## Experience  ##
 
-#### [Blink Technologies, Inc](http://www.blinkeye.ai/) ####
+### [Blink Technologies, Inc](http://www.blinkeye.ai/) ###
 <img src="images/blink_technologies_incorporation_logo.jpg?raw=true" width="5%" height="5%"/>
 
 #### - AI Algorithm Team Lead | 11/2024-Present ####  
 #### - AI Algorithm Researcher | 10/2021-11/2024 ####
 
-#### [Intel corporation Ltd - RealSense](https://www.intelrealsense.com/) ####
+### [Intel corporation Ltd - RealSense](https://www.intelrealsense.com/) ###
 <img src="images/intel_corporation_logo.jpg?raw=true" width="5%" height="5%"/>
 
 #### - Sr. Computer Vision & Algorithms Engineer | 03/2019-10/2021 ####
 
-#### [Inspiring Vision Ltd]() ####
+### [Inspiring Vision Ltd]() ###
 
 #### - Computer Vision & Deep Learning Engineer (Contract) | 11/2018-03/2019 ####
 
-#### [Rafael Advanced Defense Systems Ltd](https://www.rafael.co.il/) ####
+### [Rafael Advanced Defense Systems Ltd](https://www.rafael.co.il/) ###
 <img src="images/Rafael_logo_border.jpg?raw=true" width="5%" height="5%"/>
 
 #### - Computer Vision System Engineer | 02/2018-03/2019 #### 
@@ -81,7 +81,7 @@ Achieved **0.781 F1** and **200 FPS** on CPU , using synthetic data **generated 
 
 **[Tel Aviv University](https://www.linkedin.com/school/tel-aviv-university/) : 2012**
 
-My M.Sc. research focused on **Object Tracking by Online Adaptive AdaBoost Classifiers**
+My M.Sc. research focused on **Object Tracking with Online Adaptive AdaBoost Classifiers**
 
 [*Tracking with Online Adaptive Classifiers*](https://www.youtube.com/watch?v=7SY7zlmDr0M) is a machine learning-based object tracking approach that dynamically adapts over time using AdaBoost classifiers. It is particularly effective for tracking objects in real-time video streams, even when appearance changes due to lighting variations, occlusions, and motion blur.
 
