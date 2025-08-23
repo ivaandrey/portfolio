@@ -4,10 +4,10 @@ A **Driver Monitoring System (DMS)** is an advanced safety technology designed t
 
 I led the **end-to-end development** of a real-time **driver activity classifier**, designed to recognize key distraction states, including:
 
-**✅ Normal state**: The driver is engaged and fully focused on driving.
-**🍔 Eating/drinking**: The driver is consuming food or beverages while driving, which can be a significant distraction.
-**📞 Talking on the phone**: This state is detected when the driver is holding a phone, which can impact attention and reaction time.
-**🚬 Smoking**: The system detects when the driver is smoking, which may also distract from driving and requires significant attention.
+**✅ Normal state**: The driver is engaged and fully focused on driving.  
+**🍔 Eating/drinking**: The driver is consuming food or beverages while driving, which can be a significant distraction.  
+**📞 Talking on the phone**: This state is detected when the driver is holding a phone, which can impact attention and reaction time.  
+**🚬 Smoking**: The system detects when the driver is smoking, which may also distract from driving and requires significant attention.  
 
 The model was optimized for real-time performance: 
 + Achieving an impressive execution speed of approximately **200 frames per second (FPS)**.
