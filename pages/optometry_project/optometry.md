@@ -2,7 +2,7 @@
 
 Accurate **glasses lens measurement** is vital in optometry, ensuring prescription lenses deliver optimal vision correction and comfort. Whether for single-vision, bifocal, or progressive lenses, precise fitting aligns the optical center of the lens with the pupil, minimizing discomfort and maximizing visual clarity.
 
-**📏 Key Frame Measurements for Optimal Fit:**
+###📏 Key Frame Measurements for Optimal Fit:###
 + **👁️ Pupillary Distance (PD)**: Ensures the optical centers of the lenses align perfectly with the wearer’s pupils for maximum clarity and reduced eye strain.
 + **📐 Lens Width and Height**: Determines the size of the lens to provide proper coverage and a balanced visual experience.
 + **⬆️ Fitting Height (FH)**: The vertical positioning of the lenses, ensuring that the wearer looks through the optical center for proper vision correction, especially important for progressive and bifocal lenses.
@@ -25,27 +25,27 @@ The developed algorithm modules demonstrate highly accurate results, with an **a
 
 
 
-**🔍 Lens Size Calculation Pipeline:**
+###🔍 Lens Size Calculation Pipeline:###
 
-1. **Face Detection** - Detect the face in the input image using a deep learning-based face detector. A custom-trained YOLOv5 network is utilized for this task. 
+**➤ Face Detection** - Detect the face in the input image using a deep learning-based face detector. A custom-trained YOLOv5 network is utilized for this task. 
 
-2. **Face Landmark Detection** - Identify key facial landmarks (e.g., eyes, nose, mouth, and face contour) using a landmark detection model. We train a multi-branch regression model to accurately estimate face landmarks
+**➤ Face Landmark Detection** - Identify key facial landmarks (e.g., eyes, nose, mouth, and face contour) using a landmark detection model. We train a multi-branch regression model to accurately estimate face landmarks
 
-3. **Glasses Region Extraction** - Using eyes and nose landmarks define the crop of the glasses.
+**➤ Glasses Region Extraction** - Using eyes and nose landmarks define the crop of the glasses.
 
-4. **Glasses Symmetry Line Calculation** - Determine the position of the glasses' symmetry line using classical computer vision techniques. This involves processing the gradient image and applying a correlation-based method.
+**➤ Glasses Symmetry Line Calculation** - Determine the position of the glasses' symmetry line using classical computer vision techniques. This involves processing the gradient image and applying a correlation-based method.
 
-5. **Iris Center Calculation** - Detect the iris centers using a trained regression model for iris landmark estimation. Accurately localizing the centers is essential for measuring interpupillary distance (IPD) and fitting height.
+**➤ Iris Center Calculation** - Detect the iris centers using a trained regression model for iris landmark estimation. Accurately localizing the centers is essential for measuring interpupillary distance (IPD) and fitting height.
 
-6. **Monocular Pupillary Distance (MonoPD) Calculation** - Compute the distance from each iris center to the symmetry line of the glasses. This measurement is used for personalized lens fitting and prescription accuracy.
+**➤ Monocular Pupillary Distance (MonoPD) Calculation** - Compute the distance from each iris center to the symmetry line of the glasses. This measurement is used for personalized lens fitting and prescription accuracy.
 
-7. **Glasses Lens Segmentation** - Segment the lens region within the glasses frame using a trained segmentation network based on the [YOLACT](https://arxiv.org/abs/1904.02689) architecture. Extract lens contours to enable precise size estimation.
+**➤ Glasses Lens Segmentation** - Segment the lens region within the glasses frame using a trained segmentation network based on the [YOLACT](https://arxiv.org/abs/1904.02689) architecture. Extract lens contours to enable precise size estimation.
 
-8. **Lens Size and Fitting Height Calculation** - Measure the lens dimensions (width and height) in pixels based on the extracted lens contours.
+**➤ Lens Size and Fitting Height Calculation** - Measure the lens dimensions (width and height) in pixels based on the extracted lens contours.
    
-9. **Calculate the Fitting Height (FH)** - Compute the vertical distance from the iris center to the bottom of the lens.
+**➤ Calculate the Fitting Height (FH)** - Compute the vertical distance from the iris center to the bottom of the lens.
 
-10. **Pixel-to-Millimeter Conversion** - Convert all measured values from pixels to millimeters using a predefined scaling factor or depth information from a depth image.
+**➤ Pixel-to-Millimeter Conversion** - Convert all measured values from pixels to millimeters using a predefined scaling factor or depth information from a depth image.
 
 <div style="text-align: center;">
   <img src="images/EyeSense.gif?raw=true" width="80%" height="80%"/>
