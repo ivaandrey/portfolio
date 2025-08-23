@@ -2,10 +2,10 @@
 
 Accurate **glasses lens measurement** is vital in optometry, ensuring prescription lenses deliver optimal vision correction and comfort. Whether for single-vision, bifocal, or progressive lenses, precise fitting aligns the optical center of the lens with the pupil, minimizing discomfort and maximizing visual clarity.
 
-**Key Frame Measurements for Optimal Fit:**
-+ **Pupillary Distance (PD)**: Ensures the optical centers of the lenses align perfectly with the wearer’s pupils for maximum clarity and reduced eye strain.
-+ **Lens Width and Height**: Determines the size of the lens to provide proper coverage and a balanced visual experience.
-+ **Fitting Height (FH)**: The vertical positioning of the lenses, ensuring that the wearer looks through the optical center for proper vision correction, especially important for progressive and bifocal lenses.
+**📏 Key Frame Measurements for Optimal Fit:**
++ **👁️ Pupillary Distance (PD)**: Ensures the optical centers of the lenses align perfectly with the wearer’s pupils for maximum clarity and reduced eye strain.
++ **📐 Lens Width and Height**: Determines the size of the lens to provide proper coverage and a balanced visual experience.
++ **⬆️ Fitting Height (FH)**: The vertical positioning of the lenses, ensuring that the wearer looks through the optical center for proper vision correction, especially important for progressive and bifocal lenses.
 
 ---
 
@@ -25,7 +25,7 @@ The developed algorithm modules demonstrate highly accurate results, with an **a
 
 
 
-Here’s a detailed breakdown of each step in the lens size calculation process:
+**🔍 Lens Size Calculation Pipeline:**
 
 1. **Face Detection** - Detect the face in the input image using a deep learning-based face detector. A custom-trained YOLOv5 network is utilized for this task. 
 
