@@ -10,8 +10,9 @@ In this project I categorized eye states into three classes: open, half-open, an
 
 To meet real-time constraints, I led the development of a lightweight CNN-based classifier:
 + 🚀 Achieves **840 FPS on CPU**, meeting strict low-latency requirements.
-+ 📊 Reaches a high **[F1 score](https://www.v7labs.com/blog/f1-score-guide) of 0.905**  
- This balance between speed and accuracy makes it ideal for low-latency deployments in safety-critical and interactive systems.
++ 📊 Reaches a high **[F1 score](https://www.v7labs.com/blog/f1-score-guide) of 0.905**
+  
+This balance between speed and accuracy makes it ideal for low-latency deployments in safety-critical and interactive systems.
   
 ---
 
