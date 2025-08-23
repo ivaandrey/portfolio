@@ -4,11 +4,14 @@
 
 In this project I categorized eye states into three classes: open, half-open, and closed. Each state provides valuable insights into a person's cognitive and physical condition:
 
-+ **👀 Open Eyes**: Indicate attentiveness and engagement. Tracking open-eye duration is crucial in gaze-based interaction and VR/AR applications.  
-+ **😴 Half-Open Eyes**: Often signal fatigue or transition to sleep. Early detection enables timely alerts in DMS and industrial safety settings.  
-+ **🙈 Closed Eyes**: Reflect blinking, sleep, or unconsciousness. Continuous detection supports real-time fatigue alerts and medical use cases.
+**👀 Open Eyes**: Indicate attentiveness and engagement. Tracking open-eye duration is crucial in gaze-based interaction and VR/AR applications.  
+**😴 Half-Open Eyes**: Often signal fatigue or transition to sleep. Early detection enables timely alerts in DMS and industrial safety settings.  
+**🙈 Closed Eyes**: Reflect blinking, sleep, or unconsciousness. Continuous detection supports real-time fatigue alerts and medical use cases.  
 
-To meet real-time constraints, I led the development of a lightweight CNN-based classifier capable of running at **840 FPS on CPU**, while achieving a high **[F1 score](https://www.v7labs.com/blog/f1-score-guide) of 0.905**. This balance between speed and accuracy makes it ideal for low-latency deployments in safety-critical and interactive systems.
+To meet real-time constraints, I led the development of a lightweight CNN-based classifier:
++ 🚀 Achieves **840 FPS on CPU**, meeting strict low-latency requirements.
++ 📊 Reaches a high **[F1 score](https://www.v7labs.com/blog/f1-score-guide) of 0.905**  
+ This balance between speed and accuracy makes it ideal for low-latency deployments in safety-critical and interactive systems.
   
 ---
 
