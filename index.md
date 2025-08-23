@@ -50,18 +50,18 @@ Enabled real-time, calibration-free lens measurement using only RGB images.
 Achieved **±0.5mm accuracy** in lens size estimation, supporting **optical retail and tele-optometry**.
 
 #### 🧓 [Age and Gender Estimation](pages/age_gender_project/age_gender.md) (Blink Technologies) ####
-Built deep learning models to estimate **age and gender from facial images**.
-Trained custom MLP classifiers on real-world data, achieving **88% accuracy for age and 99% for gender**.
-Enabled **real-time**, on-device predictions with minimal latency for user analytics and personalization
+Trained MLP classifiers, achieving **88% accuracy for age and 99% for gender**.
+Used **synthetic age progression data** to balance real-world datasets.
+Enabled **real-time predictions** on edge devices for user analytics and personalization
 
 #### 🔍 [Mimimal Object Size Detection in Depth Images](pages/deep_mos/deep_mos.md) (Intel - RealSense) ####
 **Pionered a depth-based vision pipeline** for detecting objects in depth maps.  
 Defined automated **lab and robotic data collection pipeline**
-Delivered YOLOv3 object detector for L515 LiDAR — **95% accuracy on 13mm targets**.
+Delivered object detector for L515 LiDAR — **95% accuracy on 13mm targets**.
+
+#### 📐 [3D Object Edge Analysis in Depth Images](pages/3d_object_analysis_project/3d_object_analysis.md) (Intel - RealSense) ####
 
 
-+ **[Mimimal Object Size Detection in Depth Images](pages/deep_mos/deep_mos.md)**
-+ **[3D Object Edge Analysis in Depth Images](pages/3d_object_analysis_project/3d_object_analysis.md)**
 + **[Artificial Trainer](pages/artificial_trainer_project/artificial_trainer.md)** (mentored B.Sc students' final project)
 
 ---
