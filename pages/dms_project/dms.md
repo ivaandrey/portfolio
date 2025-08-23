@@ -9,7 +9,10 @@ I led the **end-to-end development** of a real-time **driver activity classifier
 + **📞 Talking on the phone**: This state is detected when the driver is holding a phone, which can impact attention and reaction time.
 + **🚬 Smoking**: The system detects when the driver is smoking, which may also distract from driving and requires significant attention.
 
-The model was optimized for real-time performance, achieving an impressive execution speed of approximately **200 frames per second (FPS)**. Additionally, the model demonstrates solid classification performance with an **[F1 score](https://www.v7labs.com/blog/f1-score-guide) of 0.781**, indicating a good balance between precision and recall. This ensures the system can reliably detect and classify various driver activities, providing crucial information to improve overall driver safety.
++ The model was optimized for real-time performance, achieving an impressive execution speed of approximately **200 frames per second (FPS)**.
++ Additionally, the model demonstrates solid classification performance with an **[F1 score](https://www.v7labs.com/blog/f1-score-guide) of 0.781**, indicating a good balance between precision and recall.
+
+This ensures the system can reliably detect and classify various driver activities, providing crucial information to improve overall driver safety.
 The model was trained on **synthetic data generated using a GenAI** pipeline based on the Stable Diffusion XL (SDXL) base model, enhancing its robustness across edge cases.
 
 ---
