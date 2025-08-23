@@ -54,7 +54,12 @@ Built deep learning models to estimate **age and gender from facial images**.
 Trained custom MLP classifiers on real-world data, achieving **88% accuracy for age and 99% for gender**.
 Enabled **real-time**, on-device predictions with minimal latency for user analytics and personalization
 
-+ **[Age and Gender Estimation from Facial Images](pages/age_gender_project/age_gender.md)**
+#### 🔍 [Mimimal Object Size Detection in Depth Images](pages/deep_mos/deep_mos.md) (Intel - RealSense) ####
+**Pionered a depth-based vision pipeline** for detecting objects in depth maps.
+Defined automated **lab and robotic data collection pipeline**
+Delivered YOLOv3 object detector for L515 LiDAR — **95% accuracy on 13mm targets**.
+
+
 + **[Mimimal Object Size Detection in Depth Images](pages/deep_mos/deep_mos.md)**
 + **[3D Object Edge Analysis in Depth Images](pages/3d_object_analysis_project/3d_object_analysis.md)**
 + **[Artificial Trainer](pages/artificial_trainer_project/artificial_trainer.md)** (mentored B.Sc students' final project)
