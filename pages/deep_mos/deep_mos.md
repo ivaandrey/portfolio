@@ -15,11 +15,13 @@ The final results for the cylinder with a **13mm length and diameter** are as fo
   <img src="images/lidar_camera2.jpg?raw=true" width="20%" height="20%"/>
 </div>
 
-Before the development of the automatic MOS metric, a manual approach was applied. For this manual approach, a repetitive cylindrical target was used, where each cylinder's size and location were precisely defined. The manual approach, while offering control over the target, comes with several disadvantages.
+Before developing the automatic MOS metric, detection was done manually using a fixed grid of cylinders with known sizes and positions. While this offered precise control, it introduced several drawbacks:
 
-Subjectivity is one of the key issues, as the approach relies on human visual acuity, meaning the results can be influenced by individual perceptions and inconsistencies. The repetitive location pattern of the cylinders helps the operator find the smallest cylinder more easily, but this predictability can reduce the ability to detect more subtle or unpredictable issues that may arise in real-world scenarios. The manual assessment is also heavily influenced by the observer’s point of view, as variations in angle, distance, or lighting conditions. Additionally, the grid pattern of the target may affect the results. Since the target is designed with a regular, predictable structure, it may not accurately reflect how a system would perform with irregular or complex real-world scenes.
++ 🔍 **Subjectivity** – Results depended on the operator’s visual perception and consistency.
++ 🎯 **Predictability** – The fixed pattern made detection easier but less reflective of real-world variability.
++ 🧭 **Viewpoint Sensitivity** – Manual results varied based on angle, lighting, and observer perspective.
 
-These drawbacks emphasize the reason I chose to implement an automatic MOS metric, which provides more objective, consistent, and dependable results.
+These limitations highlighted the need for an automated, objective approach better suited for real-world scenarios.
 
 <div style="text-align: center;">
   <img src="images/CylinderTarget.png?raw=true" width="50%" height="50%"/>
