@@ -49,6 +49,11 @@ Led the development of an image-based deep learning system for **automatic glass
 Enabled real-time, calibration-free lens measurement using only RGB images.  
 Achieved **±0.5mm accuracy** in lens size estimation, supporting **optical retail and tele-optometry**.
 
+#### 🧓 [Age and Gender Estimation](pages/age_gender_project/age_gender.md) (Blink Technologies) ####
+Developed a lightweight deep learning model for predicting **age and gender from facial images**.
+Enabled **real-time**, on-device predictions with minimal latency for user analytics and personalization
+Achieved **88% accuracy for age estimation** and **99% accuracy for gender classification**, using compact MLP-based architectures.
+
 + **[Age and Gender Estimation from Facial Images](pages/age_gender_project/age_gender.md)**
 + **[Mimimal Object Size Detection in Depth Images](pages/deep_mos/deep_mos.md)**
 + **[3D Object Edge Analysis in Depth Images](pages/3d_object_analysis_project/3d_object_analysis.md)**
