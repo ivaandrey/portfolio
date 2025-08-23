@@ -5,8 +5,9 @@ Gaze direction estimation is the process of determining where a person is lookin
 This project focuses on delivering **real-time**, **high-precision** gaze estimation with deep learning — enabling **natural interaction** and **safety-critical responses** in consumer tech.
 
 I lead the development of gaze estimation models for various screen sizes and introduced a novel **Gaze Vector** approach to replace the traditional **Point of Gaze** method.  
-This new method improved gaze estimation accuracy by **8%** across devices ranging from **phones and tablets to monitors as large as 55"**.  
-The models demonstrate high robustness, achieving **prediction errors as low as 6% of screen size**, with **execution time of ~5.5 ms (180 FPS)** on a CPU.
++ **Improved gaze estimation accuracy by 8%** across devices — from **phones and tablets to monitors as large as 55"**.
++ **High robustness** with prediction errors as low as **6% of screen size**.
++ **Optimized runtime:** ~**5.5 milliseconds (180 FPS) on a CPU**.
 
 ---
 
