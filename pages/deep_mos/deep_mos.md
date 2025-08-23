@@ -5,6 +5,11 @@ One important metric is the **Minimal Object Size (MOS)**, which refers to the s
 
 I led the development of the Minimal Object Size (MOS) metric for the Intel RealSense LiDAR L515 camera—a compact, solid-state depth camera based on LiDAR technology, designed for high-accuracy, low-power depth sensing in indoor environments. This metric enabled precise evaluation of the smallest detectable object size, enhancing depth image quality analysis and system performance.
 
+The final results for the cylinder with a **13mm length and diameter** are as follows: 
++ **Class accuracy of 94%**
++ Object **position accuracy of 95%** within a 5-pixel error margin
++ Cylinder **size accuracy of around 99%**
+
 ---
 <div style="text-align: center;">
   <img src="images/lidar_camera2.jpg?raw=true" width="20%" height="20%"/>
@@ -27,8 +32,6 @@ A new target with an adjustable cylinder length and location was developed, elim
 </div>
 
 The YOLOv3 network was selected as the cylinder detection model for depth images due to its several advantages, including high accuracy, fast inference speed, and ability to detect objects in real-time. Additionally, YOLOv3 performs well with small and large objects, offers robust performance even with limited training data, and provides a balance between precision and recall, making it suitable for cylinder detection tasks.
-
-The final results for the cylinder with a 13mm length and diameter are as follows: **class accuracy of 94%, object position accuracy of 95% within a 5-pixel error margin, and cylinder size accuracy of around 99%**
 
 <div style="text-align: center;">
   <img src="images/data_capturing.gif?raw=true" width="30%" height="30%"/>
