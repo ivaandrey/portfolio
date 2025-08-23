@@ -4,9 +4,9 @@
 
 One key limitation of standard solutions, such as **MediaPipe**, is their reduced accuracy on **infrared (IR)** and **grayscale** images. Since MediaPipe’s models are trained primarily on RGB data under good lighting, they often fail in domains like **driver monitoring systems (DMS)** or **low-light medical applications**, where IR imaging is the norm. Additionally, detecting hands in various gestures and sizes is a challenge, as variations in hand pose, scale, lighting, contrast, and sensor noise can significantly impact detection accuracy.
 
-To overcome this, I led the development of a specialized hand landmark detector tailored for grayscale and IR inputs — robust to variations in **gesture**, **lighting**, **scale**, and **sensor noise**. In addition the motion detection module was implemented.
+To overcome this challenges , I led the development of a specialized hand landmark detector tailored for grayscale and IR inputs — robust to variations in **gesture**, **lighting**, **scale**, and **sensor noise**. Additionally, I implemented a **motion detection module** to enable responsive gesture interaction on compact hardware.
 
-+ 🚀 The **full pipeline** runs at **150+ FPS on CPU**, enabling **real-time hand motion control** in edge devices.
++ 🚀 **Full pipline runs at 150+ FPS on CPU**, enabling **real-time hand motion control** in edge devices.
 
 ---
 
