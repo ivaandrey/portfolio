@@ -62,7 +62,7 @@ Delivered object detector for L515 LiDAR — **95% accuracy on 13mm targets**.
 #### 📐 [3D Object Edge Analysis in Depth Images](pages/3d_object_analysis_project/3d_object_analysis.md) (Intel - RealSense) ####
 
 
-+ **[Artificial Trainer](pages/artificial_trainer_project/artificial_trainer.md)** (mentored B.Sc students' final project)
+#### 🏋️ [Artificial Trainer](pages/artificial_trainer_project/artificial_trainer.md) (Mentored B.Sc. students' final project) ####
 
 ---
 
