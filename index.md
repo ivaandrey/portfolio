@@ -56,7 +56,7 @@ Enabled **real-time predictions** on edge devices for user analytics and persona
 
 #### 🔍 [Mimimal Object Size Detection in Depth Images](pages/deep_mos/deep_mos.md) (Intel - RealSense) ####
 **Pionered a depth-based vision pipeline** for detecting objects in depth maps.  
-Defined automated **lab and robotic data collection pipeline**
+Defined automated **lab and robotic data collection pipeline**  
 Delivered object detector for L515 LiDAR — **95% accuracy on 13mm targets**.
 
 #### 📐 [3D Object Edge Analysis in Depth Images](pages/3d_object_analysis_project/3d_object_analysis.md) (Intel - RealSense) ####
