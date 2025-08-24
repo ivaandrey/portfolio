@@ -18,11 +18,11 @@ In addition to standard edge metrics, I developed two novel metrics to enhance e
   <img src="images/EdgeMetrics2.png?raw=true">
 </div>
 
-Two depth cameras based on different technologies were selected for analysis: the **RealSense LiDAR L515** and the **RealSense D435**.
+Two depth cameras based on different technologies were selected for analysis: the **RealSense L515 (LiDAR)** and the **RealSense D435 (Stereo)**.
 
-The **L515** utilizes LiDAR (Light Detection and Ranging) technology, employing a laser scanning mechanism to capture high-resolution depth information. It provides exceptional depth accuracy and low noise, especially in indoor environments, and is well-suited for applications requiring fine-grained depth details such as object measurement or high-precision scanning.
+🔦 The **L515** utilizes LiDAR (Light Detection and Ranging) technology, employing a laser scanning mechanism to capture high-resolution depth information. It provides exceptional depth accuracy and low noise, especially in indoor environments, and is well-suited for applications requiring fine-grained depth details such as object measurement or high-precision scanning.
 
-In contrast, the **D435** is based on stereo vision technology, using a pair of RGB sensors and an infrared projector to compute depth via disparity between images. While more versatile across various lighting conditions and typically offering a wider field of view, it is generally less accurate and noisier compared to LiDAR in terms of depth precision, particularly at longer ranges or on low-texture surfaces.
+🎥 In contrast, the **D435** is based on stereo vision technology, using a pair of RGB sensors and an infrared projector to compute depth via disparity between images. While more versatile across various lighting conditions and typically offering a wider field of view, it is generally less accurate and noisier compared to LiDAR in terms of depth precision, particularly at longer ranges or on low-texture surfaces.
 
 <div style="text-align: center;">
   <img src="images/two_cameras.png?raw=true" width="50%" height="50%"/>
@@ -38,7 +38,7 @@ The side plane was divided into 25 regions, and a plane-fitting algorithm was ap
 
 ### 📊 Results ###
 + **Side Plane Angle:**
-  + 🎯 D435: Average angle = 89.8°, Std Dev = 4.8°
+  + 🎥 D435: Average angle = 89.8°, Std Dev = 4.8°
   + 🔦 L515: Average angle = 93.4°, Std Dev = 16.2°
 
 <div style="text-align: center;">
@@ -48,7 +48,7 @@ The side plane was divided into 25 regions, and a plane-fitting algorithm was ap
 
 
 + **Corner Angle:**
-  + 🎯 D435: Average angle = 93.2°
+  + 🎥 D435: Average angle = 93.2°
   + 🔦 L515: Average angle = 79.8°
 
 <div style="text-align: center;">
