@@ -49,7 +49,9 @@ One challenging part was designing a lightweight CNN for back posture classifica
   <img src="images/cnn.png?raw=true" width="80%" height="80%"/>
 </div>
 
-The developed application operates in real time on CPU, analyzing the correctness of each squat repetition, providing instant feedback to the trainee on necessary improvements, counting repetitions, and summarizing the overall execution quality at the end of the set. Additionally, it returns an overall performance grade, saves the results, and enables the trainee to track their progress over time.
+### ⚡ Real-Time Application: ###
+
+The developed application operates in **real time on CPU**, analyzing the correctness of each squat repetition, **providing instant feedback to the trainee** on necessary improvements, counting repetitions, and summarizing the overall execution quality at the end of the set. Additionally, it returns an overall performance grade, saves the results, and enables the trainee to track their progress over time.
 
 You can view the full application demo [here](https://www.youtube.com/watch?v=TKfvSuj2hhs).
 
