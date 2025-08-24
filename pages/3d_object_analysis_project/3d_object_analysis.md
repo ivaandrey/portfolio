@@ -38,16 +38,17 @@ The side plane was divided into 25 regions, and a plane-fitting algorithm was ap
 
 ### 📊 Results ###
 + **Side Plane Angle:**
-+ 🎯 D435: Avg. angle = 89.8°, Std Dev = 4.8°
-+ 🔦 L515: Avg. angle = 93.4°, Std Dev = 16.2°
+  + 🎯 D435: Average angle = 89.8°, Std Dev = 4.8°
+  + 🔦 L515: Average angle = 93.4°, Std Dev = 16.2°
 
 <div style="text-align: center;">
   <img src="images/two_cameras_edge_results.png?raw=true" width="80%" height="80%"/>
 </div>
 
+
 + **Corner Angle:**
-+ 🎯 D435: Avg. = 93.2°
-+ 🔦 L515: Avg. = 79.8°
+  + 🎯 D435: Average angle = 93.2°
+  + 🔦 L515: Average angle = 79.8°
 
 <div style="text-align: center;">
   <img src="images/corner_vectors.png?raw=true" width="80%" height="80%"/>
