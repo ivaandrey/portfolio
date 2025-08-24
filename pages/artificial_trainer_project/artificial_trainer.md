@@ -1,4 +1,4 @@
-## Artificial Trainer - mentored B.Sc. students' final project ##
+## Artificial Trainer ##
 
 Throughout my engineering career, I’ve always aimed to help others in STEM fields by explaining concepts and sharing my knowledge. I had the pleasure of mentoring two excellent students in their final B.Sc. project at Braude College of Engineering (Karmiel). The project intrigued me as it combined algorithmic thinking with computer vision using a deep learning approach—two areas I’m deeply passionate about. **The project received a final mark of 96.**
 
