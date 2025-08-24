@@ -43,7 +43,9 @@ One challenging part was designing a lightweight CNN for back posture classifica
 ###  🧩 Back Straightness Classifier: ###
 
 One challenging part was designing a lightweight CNN for back posture classification—a necessity since the system had to run on a CPU-only laptop in real time. Most well-known pretrained classification networks suffer from poor runtime performance, so after analyzing the project requirements, **we decided to implement, train and deploy an efficient, classic CNN architecture using binary cross-entropy loss.** Additionaly, the students were guided on how to collect relevant data for both straight and curved backs.  
-+ The final trained model achieved an **accuracy of 87.98%** on the test set and delivered real-time performance with a **runtime of 44 FPS**.
++ The final trained model achieves:
+  + 📊 **87.98% accuracy** on the test set.
+  + 🚀 **Real-time performance at 44 FPS** on CPU.
 
 <div style="text-align: center;">
   <img src="images/cnn.png?raw=true" width="80%" height="80%"/>
