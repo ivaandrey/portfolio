@@ -60,6 +60,9 @@ Defined automated **lab and robotic data collection pipeline**
 Delivered object detector for L515 LiDAR — **95% accuracy on 13mm targets**.
 
 #### 📐 [3D Object Edge Analysis in Depth Images](pages/3d_object_analysis_project/3d_object_analysis.md) (Intel - RealSense) ####
+Developed advanced edge sharpness metrics to evaluate depth camera performance.
+Introduced **Side Plane Angle** and **Corner Angle** metrics for enhanced 3D surface analysis.
+**D435 stereo camera outperformed L515 LiDAR** in both precision and edge accuracy.
 
 
 #### 🏋️ [Artificial Trainer](pages/artificial_trainer_project/artificial_trainer.md) (Mentored B.Sc. students' final project) ####
