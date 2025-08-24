@@ -65,7 +65,7 @@ Introduced **Side Plane Angle** and **Corner Angle** metrics for enhanced 3D sur
 **D435 stereo camera outperformed L515 LiDAR** in both precision and edge accuracy.  
 
 
-#### 🏋️ [Artificial Trainer - AI Real-Time Squat Coach](pages/artificial_trainer_project/artificial_trainer.md) (Mentored B.Sc. students' final project) ####
+#### 🏋️ [Artificial Trainer - AI Real-Time Squat Coach](pages/artificial_trainer_project/artificial_trainer.md) (Mentor Project) ####
 **Mentored a final B.Sc. project** combining deep learning, computer vision, and pose analysis.  
 Developed a **real-time application** to assess squat performance from RGB images.  
 Achieved **88% accuracy** for back posture classification at **44 FPS** on CPU.  
