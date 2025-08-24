@@ -1,6 +1,9 @@
 ## About Me ##
-**AI Algorithm Leader** with **17+ years** designing and deploying advanced **real-time Computer Vision and Deep Learning solutions**. Proven track record in building **production-grade modules** for consumer and defense products. **Expert** in **face, gaze, and hand tracking**.  
-Currently leading a **2-engineer AI team at Blink Technologies**, applying **hands-on technical innovation** while guiding the development of **advanced vision modules** for **face, hand, and optometry systems**. Brings together **deep algorithmic skills** with **strong leadership**, delivering **production-ready CV systems** end-to-end. Known for **turning research into measurable product impact**. **Passionate about building vision systems** where **applied AI** creates **meaningful impact** in **consumer tech** and **vision-driven products**.
+**AI Algorithm Leader** with **17+ years** designing and deploying advanced **real-time Computer Vision and Deep Learning solutions**. Proven track record in building **production-grade modules** for consumer and defense products. **Expert** in **face, gaze, and hand tracking** technologies.  
+
+Currently leading a **2-person AI team at Blink Technologies**, combining **hands-on technical innovation** with strategic oversight to drive the development of cutting-edge **vision modules** for face, hand, and optometry systems. Known for blending **deep algorithmic expertise** with **strong leadership** to deliver end-to-end, production-ready CV systems.
+
+Recognized for **transforming research into impactful, deployable solutions**. Passionate about building vision systems where **applied AI** delivers **real-world value** in consumer technologies and vision-powered products.
 
 ---
 
@@ -30,7 +33,7 @@ Achieved **8% accuracy improvement** across multiple devices.
 Deployed in production in consumer-facing vision products.  
 
 #### ✋ [Hand Tracking & Motion Detection](pages/hand_detection_project/hand_detection.md) (Blink Technologies) #### 
-**Real-time hand tracking** and 21-point landmark estimation for motion control
+**Real-time hand tracking** and 21-point landmark estimation for motion control.  
 **Pioneered implementation** of a high-speed CV pipeline running at **150+ FPS** on edge devices.  
 Enables intuitive gesture-based interaction in HCI platforms.  
 
@@ -52,11 +55,11 @@ Achieved **±0.5mm accuracy** in lens size estimation, supporting **optical reta
 #### 🧓 [Age and Gender Estimation](pages/age_gender_project/age_gender.md) (Blink Technologies) ####
 Trained MLP classifiers, achieving **88% accuracy for age and 99% for gender**.
 Used **synthetic age progression data** to balance real-world datasets.
-Enabled **real-time predictions** on edge devices for user analytics and personalization
+Enabled **real-time predictions** on edge devices for user analytics and personalization.
 
 #### 🔍 [Mimimal Object Size Detection in Depth Images](pages/deep_mos/deep_mos.md) (Intel - RealSense) ####
 **Pionered a depth-based vision pipeline** for detecting objects in depth maps.  
-Defined automated **lab and robotic data collection pipeline**  
+Defined automated **lab and robotic data collection pipeline**.    
 Delivered object detector for L515 LiDAR — **95% accuracy on 13mm targets**.
 
 #### 📐 [3D Object Edge Analysis in Depth Images](pages/3d_object_analysis_project/3d_object_analysis.md) (Intel - RealSense) ####
