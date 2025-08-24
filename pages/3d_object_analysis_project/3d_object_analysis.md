@@ -46,6 +46,7 @@ The side plane was divided into 25 regions, and a plane-fitting algorithm was ap
 </div>
 
 
+
 + **Corner Angle:**
   + 🎯 D435: Average angle = 93.2°
   + 🔦 L515: Average angle = 79.8°
@@ -53,6 +54,7 @@ The side plane was divided into 25 regions, and a plane-fitting algorithm was ap
 <div style="text-align: center;">
   <img src="images/corner_vectors.png?raw=true" width="80%" height="80%"/>
 </div>
+
 
 ### 📝 Summary ###
 The **stereo-based D435** consistently delivered more **accurate and stable edge metrics** compared to the **LiDAR-based L515**, making it more suitable for applications demanding geometric precision in 3D environments.
