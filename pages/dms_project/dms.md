@@ -10,7 +10,7 @@ I led the **end-to-end development** of a real-time **driver activity classifier
 **🚬 Smoking**: The system detects when the driver is smoking, which may also distract from driving and requires significant attention.  
 
 The model was optimized for real-time performance: 
-+ 🚀 Achieving an impressive execution speed of approximately **200 frames per second (FPS)**.
++ 🚀 Achieving an impressive execution speed of approximately **130 frames per second (FPS)**.
 + 📊 Additionally, the model achieves an **[F1 score](https://www.v7labs.com/blog/f1-score-guide) of 0.781**, indicating a good balance between precision and recall.
 
 This ensures the system can reliably detect and classify various driver activities, providing crucial information to improve overall driver safety.
