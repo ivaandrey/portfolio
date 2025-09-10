@@ -7,6 +7,7 @@ The models achieved:
 
 + 🎯 **94.9% [1-Class Off Accuracy (1CoA)](https://arxiv.org/abs/2108.08186) for age prediction**
 + 🚻 **99% accuracy for gender classification**
+  
 ---
 
 <div style="text-align: center;">
