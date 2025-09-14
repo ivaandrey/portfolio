@@ -7,3 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 class: wide
+
+url: "https://ivaandrey.github.io"
+baseurl: "/portfolio"
