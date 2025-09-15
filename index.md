@@ -121,5 +121,7 @@ The core of my approach involves the online selection of the most discriminative
 
 ---
 
+This site is for personal/portfolio use only and does not offer services or accept service inquiries.
+
 
 
