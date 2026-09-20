@@ -57,8 +57,8 @@ Trained MLP classifiers, achieving **88% accuracy for age and 99% for gender**.
 Used **synthetic age progression data** to balance real-world datasets.
 Enabled **real-time predictions** on edge devices for user analytics and personalization.
 
-#### 🔍 [Mimimal Object Size Detection in Depth Images] (Intel - RealSense) ####
-**Pionered a depth-based vision pipeline** for detecting objects in depth maps.  
+#### 🔍 [Minimal Object Size Detection in Depth Images] (Intel - RealSense) ####
+**Pioneered a depth-based vision pipeline** for detecting objects in depth maps.  
 Defined automated **lab and robotic data collection pipeline**.    
 Delivered object detector for L515 LiDAR — **95% accuracy on 13mm targets**.
 
@@ -83,7 +83,7 @@ Achieved **88% accuracy** for back posture classification at **44 FPS on CPU**.
 #### - AI Algorithm Team Lead | 11/2024-Present ####  
 #### - AI Algorithm Researcher | 10/2021-11/2024 ####
 
-### [Intel corporation Ltd - RealSense](https://www.intelrealsense.com/) ###
+### [Intel Corporation Ltd](https://www.intelrealsense.com/) ###
 <img src="images/intel_corporation_logo.jpg?raw=true" width="5%" height="5%"/>
 
 #### - Sr. Computer Vision & Algorithms Engineer | 03/2019-10/2021 ####
