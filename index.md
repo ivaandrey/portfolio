@@ -1,5 +1,5 @@
 ## About Me ##
-AI Algorithm Researcher with **18+ years** designing and deploying advanced **real-time Computer Vision and Deep Learning solutions**. Proven track record in building production-grade modules for consumer and defense products, spanning **face, gaze, and hand tracking technologies**.
+AI Algorithm Researcher with **17+ years** designing and deploying advanced **real-time Computer Vision and Deep Learning solutions**. Proven track record in building production-grade modules for consumer and defense products, spanning **face, gaze, and hand tracking technologies**.
 
 Currently a **Senior Algorithm Researcher** on the **Biometrics & Access Control R&D** team at **RealSense**, driving on-device face authentication for the **RealSense ID Pro access-control platform**. Combines hands-on algorithmic work — deep learning, camera ISP/AE tuning, and stereo vision systems — with technical leadership to deliver end-to-end, production-ready biometric systems.
 
@@ -104,7 +104,7 @@ Achieved **88% accuracy** for back posture classification at **44 FPS on CPU**.
 #### - AI Algorithm Team Lead | 11/2024-11/2025 ####  
 #### - AI Algorithm Researcher | 10/2021-11/2024 ####
 
-### [Intel Corporation Ltd](https://www.intelrealsense.com/) ###
+### [Intel Corporation Ltd](https://www.intel.co.il/) ###
 <img src="images/intel_corporation_logo.jpg?raw=true" width="5%" height="5%"/>
 
 #### - Sr. Computer Vision & Algorithms Engineer | 03/2019-10/2021 ####
