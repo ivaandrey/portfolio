@@ -23,7 +23,6 @@ Currently a **Senior Algorithm Researcher** on the **Biometrics & Access Control
 
 ## Key AI & Computer Vision Projects  ##
 
-A selection of impactful real-world projects combining algorithm innovation, real-time performance, and production deployment:  
 *(Click to explore each project)*
 #### 📷 [Dual-Mode Autoexposure for Face Authentication] (RealSense) ####
 
