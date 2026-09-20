@@ -27,6 +27,21 @@ Recognized for transforming research into impactful, deployable solutions. Passi
 
 A selection of impactful real-world projects combining algorithm innovation, real-time performance, and production deployment:  
 *(Click to explore each project)*
+#### 📷 [Dual-Mode Autoexposure for Face Authentication] (RealSense) ####
+
+Designed and implemented **dual-mode auto-exposure** (whole-frame and face-region metering) for the **RealSense ID Pro F500**.
+Uses **histogram-based scene classification** with an **adaptive mean target** prioritizing subject visibility across varied lighting.
+Drives a discrete exposure/gain ladder on the next-generation platform.
+
+#### 👤 [On-Camera Face Tracker] (RealSense) ####
+Owned and delivered an **on-camera face tracker** built on a lightweight **CNN landmark detector** that replaces the full recognition pipeline.
+Cut processing time from **250 ms → 20 ms (12.5×)**.
+End-to-end ownership from **algorithmic design through camera firmware integration**.
+
+#### 🔄 [Face Direction Classification] (RealSense) ####
+Built an end-to-end **face direction classifier — MobileNetV3, 8-class roll angle** — achieving **0.97 F1** on **500K+ images**.
+Used for **face orientation correction** in the face recognition training pipeline.
+
 #### 🎯 [Gaze Direction Estimation] (Blink Technologies) ####
 **Deep learning pipeline** for real-time gaze direction and eye state classification.  
 Achieved **8% accuracy improvement** across multiple devices.  
@@ -34,7 +49,7 @@ Deployed in production in consumer-facing vision products.
 
 #### ✋ [Hand Tracking & Motion Detection] (Blink Technologies) #### 
 **Real-time hand tracking** and 21-point landmark estimation for motion control.  
-**Pioneered implementation** of a high-speed CV pipeline running at **150+ FPS** on edge devices.  
+**Engineered** a high-speed CV pipeline running at **150+ FPS** on edge devices.  
 Enables intuitive gesture-based interaction in HCI platforms.  
 
 #### 🚗 [Driver Activity Recognition for Driver Monitoring System (DMS)] (Blink Technologies) ####
@@ -58,7 +73,7 @@ Used **synthetic age progression data** to balance real-world datasets.
 Enabled **real-time predictions** on edge devices for user analytics and personalization.
 
 #### 🔍 [Minimal Object Size Detection in Depth Images] (Intel) ####
-**Pioneered a depth-based vision pipeline** for detecting objects in depth maps.  
+**Designed a novel depth-based vision pipeline** for detecting objects in depth maps.  
 Defined automated **lab and robotic data collection pipeline**.    
 Delivered object detector for L515 LiDAR — **95% accuracy on 13mm targets**.
 
