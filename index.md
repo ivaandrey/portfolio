@@ -1,7 +1,7 @@
 ## About Me ##
 AI Algorithm Researcher with **18+ years** designing and deploying advanced **real-time Computer Vision and Deep Learning solutions**. Proven track record in building production-grade modules for consumer and defense products, spanning **face, gaze, and hand tracking technologies**.
 
-Currently a **Senior Algorithm Researcher** on the **Biometrics & Access Control R&D** team at **RealSense**, driving on-device face authentication for the **F500 camera family**. Combines hands-on algorithmic work — deep learning, camera ISP/AE tuning, and stereo vision systems — with technical leadership to deliver end-to-end, production-ready biometric systems.
+Currently a **Senior Algorithm Researcher** on the **Biometrics & Access Control R&D** team at **RealSense**, driving on-device face authentication for the **RealSense ID Pro access-control platform**. Combines hands-on algorithmic work — deep learning, camera ISP/AE tuning, and stereo vision systems — with technical leadership to deliver end-to-end, production-ready biometric systems.
 
 Recognized for transforming research into impactful, deployable solutions. Passionate about building vision systems where applied AI delivers real-world value in consumer technologies and vision-powered products.
 
