@@ -109,10 +109,6 @@ Achieved **88% accuracy** for back posture classification at **44 FPS on CPU**.
 
 #### - Sr. Computer Vision & Algorithms Engineer | 03/2019-10/2021 ####
 
-### [Inspiring Vision Ltd]() ###
-
-#### - Computer Vision & Deep Learning Engineer (Contract) | 11/2018-03/2019 ####
-
 ### [Rafael Advanced Defense Systems Ltd](https://www.rafael.co.il/) ###
 <img src="images/Rafael_logo_border.jpg?raw=true" width="5%" height="5%"/>
 
