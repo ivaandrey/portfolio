@@ -1,9 +1,9 @@
 ## About Me ##
-**AI Algorithm Leader** with **17+ years** designing and deploying advanced **real-time Computer Vision and Deep Learning solutions**. Proven track record in building **production-grade modules** for consumer and defense products. **Expert** in **face, gaze, and hand tracking** technologies.  
+AI Algorithm Researcher with **18+ years** designing and deploying advanced real-time Computer Vision and Deep Learning solutions. Proven track record in building production-grade modules for consumer and defense products, spanning face, gaze, and hand tracking technologies.
 
-Currently leading a **2-person AI team at Blink Technologies**, combining **hands-on technical innovation** with strategic oversight to drive the development of cutting-edge **vision modules** for face, hand, and optometry systems. Known for blending **deep algorithmic expertise** with **strong leadership** to deliver **end-to-end, production-ready CV systems**.
+Currently a **Senior Algorithm Researcher** on the **Biometrics & Access Control R&D** team at **RealSense**, driving on-device face authentication for the **F500 camera family**. Combines hands-on algorithmic work — deep learning, camera ISP/AE tuning, and stereo vision systems — with technical leadership to deliver end-to-end, production-ready biometric systems.
 
-Recognized for **transforming research into impactful, deployable solutions**. Passionate about building vision systems where **applied AI** delivers **real-world value** in **consumer technologies** and **vision-powered products**.
+Recognized for transforming research into impactful, deployable solutions. Passionate about building vision systems where applied AI delivers real-world value in consumer technologies and vision-powered products.
 
 ---
 
