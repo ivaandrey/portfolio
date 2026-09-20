@@ -29,18 +29,18 @@ A selection of impactful real-world projects combining algorithm innovation, rea
 *(Click to explore each project)*
 #### 📷 [Dual-Mode Autoexposure for Face Authentication] (RealSense) ####
 
-Designed **dual-mode auto-exposure** (whole-frame and face-region metering) for the **RealSense ID Pro F500**.
-Uses **histogram-based scene classification** with an **adaptive mean target** prioritizing subject visibility.
+Designed **dual-mode auto-exposure** (whole-frame and face-region metering) for the **RealSense ID Pro F500**.  
+Uses **histogram-based scene classification** with an **adaptive mean target** prioritizing subject visibility.  
 Drives a discrete exposure/gain ladder across varied lighting conditions.
 
 #### 👤 [On-Camera Face Tracker] (RealSense) ####
-Delivered an **on-camera face tracker** built on a lightweight **CNN landmark detector** replacing the full recognition pipeline.
-Cut processing time from **250 ms → 20 ms (12.5×)**.
+Delivered an **on-camera face tracker** built on a lightweight **CNN landmark detector** replacing the full recognition pipeline.  
+Cut processing time from **250 ms → 20 ms (12.5×)**.  
 End-to-end ownership from **algorithmic design through camera firmware integration**.
 
 #### 🔄 [Face Direction Classification] (RealSense) ####
-Built an end-to-end **face direction classifier — MobileNetV3, 8-class roll angle**.
-Achieved **0.97 F1** on **500K+ images**.
+Built an end-to-end **face direction classifier — MobileNetV3, 8-class roll angle**.  
+Achieved **0.97 F1** on **500K+ images**.  
 Used for **face orientation correction** in the face recognition training pipeline.
 
 #### 🎯 [Gaze Direction Estimation] (Blink Technologies) ####
