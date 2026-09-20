@@ -57,12 +57,12 @@ Trained MLP classifiers, achieving **88% accuracy for age and 99% for gender**.
 Used **synthetic age progression data** to balance real-world datasets.
 Enabled **real-time predictions** on edge devices for user analytics and personalization.
 
-#### 🔍 [Minimal Object Size Detection in Depth Images] (Intel - RealSense) ####
+#### 🔍 [Minimal Object Size Detection in Depth Images] (Intel) ####
 **Pioneered a depth-based vision pipeline** for detecting objects in depth maps.  
 Defined automated **lab and robotic data collection pipeline**.    
 Delivered object detector for L515 LiDAR — **95% accuracy on 13mm targets**.
 
-#### 📐 [3D Object Edge Analysis in Depth Images] (Intel - RealSense) ####
+#### 📐 [3D Object Edge Analysis in Depth Images] (Intel) ####
 Developed advanced edge sharpness metrics to evaluate depth camera performance.  
 Introduced **Side Plane Angle** and **Corner Angle** metrics for enhanced 3D surface analysis.  
 **D435 stereo camera outperformed L515 LiDAR** in both precision and edge accuracy.  
@@ -77,10 +77,15 @@ Achieved **88% accuracy** for back posture classification at **44 FPS on CPU**.
 
 ## Experience  ##
 
+### [RealSense](https://www.realsenseai.com/products/realsense-id-pro/) ###
+<img src="images/realsense_logo.jpg?raw=true" width="5%" height="5%"/>
+
+#### - Senior Algorithm Researcher | 12/2025-Present ####
+
 ### [Blink Technologies, Inc](http://www.blinkeye.ai/) ###
 <img src="images/blink_technologies_incorporation_logo.jpg?raw=true" width="5%" height="5%"/>
 
-#### - AI Algorithm Team Lead | 11/2024-Present ####  
+#### - AI Algorithm Team Lead | 11/2024-11/2025 ####  
 #### - AI Algorithm Researcher | 10/2021-11/2024 ####
 
 ### [Intel Corporation Ltd](https://www.intelrealsense.com/) ###
