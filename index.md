@@ -78,7 +78,7 @@ Achieved **88% accuracy** for back posture classification at **44 FPS on CPU**.
 ## Experience  ##
 
 ### [RealSense](https://www.realsenseai.com/products/realsense-id-pro/) ###
-<img src="images/realsenseai_logo.jpg?raw=true" width="5%" height="5%"/>
+<img src="images/realsenseai_logo.jpeg?raw=true" width="5%" height="5%"/>
 
 #### - Senior Algorithm Researcher | 12/2025-Present ####
 
